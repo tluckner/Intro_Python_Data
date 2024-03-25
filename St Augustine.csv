@@ -1,0 +1,466 @@
+Unnamed: 0,name,review_count,category,Additional categories,price,city,Zip code,state,rating,delivery,pickup,Accepts resvervations
+0,The Ice Plant,1908,bars/cocktail,Cocktail Bars,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+1,Prohibition Kitchen,1634,bars/cocktail,Bars,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+2,The Floridian,1384,american,Southern,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+3,St Augustine Fish Camp,405,seafood,Seafood,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+4,Harry's Seafood Bar and Grille,2629,seafood,Seafood,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+5,River & Fort,141,bars/cocktail,Bars,,St. Augustine,32084,FL,4.0,No,No,No
+6,Casa Reina Taqueria & Tequila,232,mexican/tex-mex,Mexican,$$,St. Augustine,32084,FL,4.0,No,No,No
+7,PK’s Roosevelt Room,171,bars/cocktail,Venues & Event Spaces,$$,St. Augustine,32084,FL,5.0,Yes,No,No
+8,The Drunken Horse,104,bars/cocktail,Wine Bars,,St. Augustine,32084,FL,4.5,Yes,No,No
+9,Catch 27,746,american,Southern,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+10,Preserved,460,american,Southern,$$$,St. Augustine,32084,FL,4.5,Yes,No,No
+11,Sainte-George Restaurant,100,unique_foregin,Modern European,,St. Augustine,32084,FL,4.5,No,No,No
+12,Collage Restaurant,535,american,American (New),$$$,St. Augustine,32084,FL,4.5,No,No,No
+13,The Blue Hen Cafe,793,american,Southern,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+14,Forgotten Tonic,464,bars/cocktail,Wine Bars,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+15,Ancient City Brunch Bar,78,cafe/breakfast,Cafes,$$,St. Augustine,32084,FL,4.5,No,No,No
+16,Mojo Old City BBQ,1174,american,Barbeque,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+17,St. Augustine Seafood Company,386,seafood,Seafood,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+18,O'Steen's Restaurant,596,seafood,Seafood,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+19,GAS- Full Service Restaurant,565,american,American (Traditional),$$,St. Augustine,32080,FL,4.5,Yes,No,No
+20,Uptown Swinery,120,american,Southern,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+21,Cafe Alcazar,145,american,American (New),$$,St. Augustine,32084,FL,4.5,Yes,No,No
+22,The Columbia,1574,unique_foregin,Spanish,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+23,St Augustine Fish House & Oyster Company,262,seafood,Seafood,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+24,Michael's,474,seafood,Seafood,$$$,St. Augustine,32084,FL,4.0,Yes,No,No
+25,A1A Ale Works,909,bars/cocktail,Pubs,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+26,Llama Restaurant,299,unique_foregin,Peruvian,$$$,St. Augustine,32080,FL,4.5,Yes,No,No
+27,Mango Mango's Caribbean Grill & Bar,948,unique_foregin,Caribbean,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+28,De Leon Cocina,99,unique_foregin,Latin American,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+29,Boat Drinks,140,bars/cocktail,Cocktail Bars,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+30,O. C. White's Restaurant,643,seafood,Seafood,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+31,BlackFly,298,seafood,Seafood,$$$,St. Augustine,32080,FL,4.0,Yes,No,No
+32,FarmHand Kchn,351,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+33,Sunday,109,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+34,Castillo Craft Bar + Kitchen,23,american,Diners,,St. Augustine,32084,FL,4.5,No,No,No
+35,Gaufre's & Goods,295,unique_foregin,Greek,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+36,Panama Hattie's,207,american,American (Traditional),$$,St. Augustine,32080,FL,4.5,Yes,No,No
+37,Grilled Cheese Gallery,284,dessert/bakery,Ice Cream & Frozen Yogurt,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+38,The Conch House Restaurant,710,unique_foregin,Caribbean,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+39,Maple Street Biscuit Company - Old City,1024,american,Southern,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+40,Casa Maya,877,mexican/tex-mex,Mexican,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+41,One Twenty Three Burger House,515,american,Burgers,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+42,Barley Republic Public House,370,unique_foregin,Irish,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+43,Auggie's Draft Room,119,bars/cocktail,Sports Bars,$,St. Augustine,32084,FL,4.5,Yes,No,No
+44,The Bantam Chef,101,seafood,Seafood,$$,St. Augustine,32084,FL,4.5,No,Yes,No
+45,Osprey Tacos,263,mexican/tex-mex,Tex-Mex,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+46,Harbor View Cafe,202,american,American (New),$,St. Augustine,32084,FL,4.0,Yes,No,No
+47,Beachside Diner,227,american,Diners,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+48,Bar Harbor Cheesecake,95,dessert/bakery,Desserts,,St. Augustine,32084,FL,4.5,No,No,No
+49,Pizzalley's Chianti Room,465,italian,Italian,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+50,Gringos Tacos,32,mexican/tex-mex,Mexican,,St. Augustine,32084,FL,4.5,Yes,No,No
+51,Odd Birds Cafe,81,cafe/breakfast,Cafes,,St. Augustine,32084,FL,4.5,No,No,No
+52,Cousteau's Waffle And Milkshake Bar,572,cafe/breakfast,Waffles,$,St. Augustine,32084,FL,4.5,Yes,No,No
+53,Alta Marea,81,italian,Italian,$$$,St. Augustine,32084,FL,4.0,Yes,No,No
+54,Beachcomber Restaurant,546,seafood,Seafood,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+55,Sarbez,128,cafe/breakfast,Cafes,$,St. Augustine,32080,FL,4.5,Yes,No,No
+56,Nero’s Waterfront Café,48,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+57,The Oak Room Restaurant  And  Lounge,10,american,American (New),$$,St. Augustine,32084,FL,4.5,No,No,No
+58,Costa Brava,196,unique_foregin,Mediterranean,$$$,St. Augustine,32084,FL,3.5,Yes,No,No
+59,Nonna's Trattoria,222,italian,Italian,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+60,Aviles Restaurant,58,unique_foregin,Mediterranean,$$,St. Augustine,32084,FL,4.0,No,No,No
+61,Sunset Grille,1366,seafood,Seafood,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+62,Jimmy Hulas,40,mexican/tex-mex,Tacos,$$,St. Augustine,32084,FL,4.0,No,Yes,No
+63,Candlelight South Restaurant,121,american,Chicken Wings,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+64,Back 40 Urban Cafe,344,unique_foregin,Caribbean,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+65,Crave,195,convenience,Food Trucks,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+66,A1A Crab House,13,seafood,Seafood,,St. Augustine,32084,FL,5.0,Yes,Yes,No
+67,The Raintree Restaurant,479,american,American (Traditional),$$$,St. Augustine,32084,FL,4.0,Yes,No,No
+68,Green Papaya Thai & Sushi Cuisine,259,asian/sushi,Sushi Bars,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+69,The Beacon Gastropub,6,bars/cocktail,Gastropubs,,St. Augustine,32080,FL,5.0,No,No,No
+70,Delish Kebabs,62,american,Kebab,,St. Augustine,32084,FL,4.5,Yes,Yes,No
+71,Burrito Works Taco Shop,461,mexican/tex-mex,Mexican,$,St. Augustine,32084,FL,4.0,Yes,No,No
+72,Metro Diner,515,american,American (Traditional),$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+73,Buena Onda Cafe,35,american,Vegetarian,,St. Augustine,32084,FL,5.0,No,No,No
+74,GastroBar 333,4,bars/cocktail,Gastropubs,,St. Augustine,32084,FL,4.5,No,No,No
+75,A1A Burrito Works Taco Shop,502,mexican/tex-mex,Mexican,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+76,Shanghai Nobby's,12,bars/cocktail,Bars,$,St. Augustine,32080,FL,4.0,No,No,No
+77,Ann O'Malley's,132,bars/cocktail,Irish Pub,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+78,Parfait Pastry Shop,2,dessert/bakery,Desserts,,St. Augustine,32084,FL,5.0,No,No,No
+79,Wow Bao,4,american,Dim Sum,,St. Augustine,32084,FL,4.5,Yes,No,No
+80,180 Vilano Grill & Pizza,234,italian,Pizza,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+81,Mojo's Tacos,402,mexican/tex-mex,Mexican,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+82,Meehan's Irish Pub & Seafood House,573,bars/cocktail,Irish Pub,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+83,Anastasia Kitchen,142,american,Diners,$,St. Augustine,32080,FL,4.5,Yes,No,No
+84,BLVD Bistro & Bar,2,american,Tapas/Small Plates,,St. Augustine,32080,FL,5.0,No,No,No
+85,The Press,290,american,Burgers,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+86,Carmelo's,280,italian,Pizza,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+87,Drake's Deli,143,cafe/breakfast,Delis,$,St. Augustine,32084,FL,5.0,Yes,No,No
+88,Harvest & Reel,25,american,American (Traditional),,St. Augustine,32080,FL,4.5,No,No,No
+89,Kaliburger,5,american,Vegan,,St. Augustine,32086,FL,4.0,No,No,No
+90,Beaches at Vilano,457,seafood,Seafood,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+91,St. Augie's Pizza,150,italian,Italian,$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+92,St George Tavern,59,bars/cocktail,Bars,$,St. Augustine,32084,FL,3.5,Yes,No,No
+93,Tacos My Blessing,21,convenience,Food Trucks,,St. Augustine,32084,FL,5.0,Yes,Yes,No
+94,Cheba Hut Toasted Subs,63,cafe/breakfast,Sandwiches,$,St. Augustine,32080,FL,4.5,Yes,Yes,No
+95,Georgie's Diner,280,american,Diners,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+96,Reflections Bistro,15,cafe/breakfast,Delis,$,St. Augustine,32084,FL,4.5,Yes,No,No
+97,Piesanos Stone Fired Pizza,29,italian,Pizza,,St. Augustine,32086,FL,4.5,No,No,No
+98,Pelican Landing,20,american,American (Traditional),,St. Augustine,32084,FL,3.5,Yes,No,No
+99,Hurricane Patty's,389,american,American (Traditional),$$,St. Augustine,32084,FL,3.0,Yes,Yes,No
+100,Mellow Mushroom - Saint Augustine,272,italian,Pizza,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+101,The Witty Whisker Cat Cafe,48,cafe/breakfast,Themed Cafes,$,St. Augustine,32084,FL,4.5,Yes,No,No
+102,Manatee Cafe,275,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+103,Playa Chac Mool,263,mexican/tex-mex,Mexican,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+104,Sainte-George,6,american,American (New),,St. Augustine,32084,FL,4.5,No,No,No
+105,South-A-Philly,132,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+106,WORLD PLATE - St. Augustine,1,dessert/bakery,Bakeries,,St. Augustine,32084,FL,5.0,No,No,No
+107,Island Donuts,107,cafe/breakfast,Donuts,$,St. Augustine,32080,FL,4.5,Yes,Yes,No
+108,Andaman Asian Bistro,196,asian/sushi,Sushi Bars,$$,St. Augustine,32080,FL,4.5,Yes,Yes,No
+109,Cajun Crab Hut,41,american,Cajun/Creole,$$,St. Augustine,32086,FL,4.5,Yes,Yes,No
+110,Spanish Bakery & Cafe,187,unique_foregin,Spanish,$,St. Augustine,32084,FL,4.0,Yes,No,No
+111,Salt Life Food Shack,1175,seafood,Seafood,$$,St. Augustine,32080,FL,3.5,Yes,Yes,No
+112,Coastal Craves Food Truck,6,convenience,Food Trucks,,St. Augustine,32084,FL,5.0,No,No,No
+113,Athena Restaurant,231,unique_foregin,Greek,$$,St. Augustine,32084,FL,4.0,Yes,No,No
+114,Funkadelic Food Truck,123,convenience,Food Trucks,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+115,Taberna del Caballo,233,bars/cocktail,Bars,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+116,Cafe del Hidalgo,200,dessert/bakery,Gelato,$,St. Augustine,32084,FL,3.5,Yes,No,No
+117,Gypsy Cab Co.,219,bars/cocktail,Bars,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+118,Mi Carnal Restaurant,195,mexican/tex-mex,Mexican,$,St. Augustine,32086,FL,5.0,Yes,No,No
+119,Pizza Time,1060,italian,Pizza,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+120,Florida Cracker Cafe,250,seafood,Seafood,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+121,Ginger bistro,73,asian/sushi,Sushi Bars,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+122,The Tin Pickle,3,american,Hot Dogs,,St. Augustine,32080,FL,4.5,No,No,No
+123,La Cocina International Restaurant,112,unique_foregin,Mediterranean,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+124,Drake's Bistro,22,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,4.5,No,No,No
+125,Cantina Louie,407,mexican/tex-mex,Mexican,$$,St. Augustine,32086,FL,4.0,Yes,No,No
+126,Sangrias Wine And Tapas Bar,259,american,Tapas Bars,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+127,La Cocina Bistro and Catering,5,dessert/bakery,Bakeries,,St. Augustine,32084,FL,5.0,No,No,No
+128,Cortesse’s Bistro,62,unique_foregin,Mediterranean,$$$,St. Augustine,32084,FL,3.5,No,No,No
+129,Bull & Crown Publick House,251,unique_foregin,British,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+130,Alms + Fare,9,dessert/bakery,Bakeries,,St. Augustine,32084,FL,4.5,No,No,No
+131,Brisky's Family style BBQ,183,american,Barbeque,,St. Augustine,32084,FL,4.5,Yes,No,No
+132,Cafe Eleven,357,cafe/breakfast,Bubble Tea,$$,St. Augustine,32080,FL,4.0,Yes,No,No
+133,Smoked Southern BBQ,24,american,Barbeque,$$,St. Augustine,32084,FL,4.5,Yes,No,No
+134,The Black Molly Grill,280,american,American (Traditional),$$,St. Augustine,32086,FL,4.0,Yes,No,No
+135,Pampa South American Kitchen,58,unique_foregin,Argentine,,St. Augustine,32084,FL,5.0,Yes,Yes,No
+136,Caribbean & Soule Restaurant,21,unique_foregin,Caribbean,,St. Augustine,32086,FL,4.5,Yes,No,No
+137,KingFish Grill,295,seafood,Seafood,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+138,Sporks,10,mexican/tex-mex,Tacos,,St. Augustine,32080,FL,4.5,Yes,Yes,No
+139,900 Degrees Pizza and Pasta,24,italian,Pizza,,St. Augustine,32084,FL,4.5,Yes,Yes,No
+140,Falafel Queen,87,american,Falafel,$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+141,The Gourmet Hut,34,cafe/breakfast,Breakfast & Brunch,,St. Augustine,32084,FL,3.5,Yes,No,No
+142,Juniper Market,78,cafe/breakfast,Coffee & Tea,$,St. Augustine,32084,FL,4.5,No,No,No
+143,Ned's Southside Kitchen,257,american,American (New),$$,St. Augustine,32086,FL,4.5,Yes,No,No
+144,The Sprout Kitchen,26,american,Organic Stores,,St. Augustine,32084,FL,4.5,Yes,No,No
+145,Frisky Cat Cafe,29,cafe/breakfast,Cafes,,St. Augustine,32084,FL,4.5,Yes,No,No
+146,Schooner's Seafood House,225,seafood,Seafood,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+147,Taco Libre,36,mexican/tex-mex,Mexican,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+148,Five Star Pizza,156,italian,Pizza,$,St. Augustine,32084,FL,4.0,Yes,No,No
+149,Nalu's,100,convenience,Food Stands,$$,St. Augustine,32080,FL,4.5,Yes,No,No
+150,The Milltop Tavern & Listening Room,169,american,American (Traditional),$$,St. Augustine,32084,FL,3.0,Yes,No,No
+151,Island Joe's,2,american,Restaurants,,St. Augustine,32080,FL,5.0,No,No,No
+152,The Tides Oyster Co. & Grill,79,bars/cocktail,Bars,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+153,Kazu Sushi Burrito,54,asian/sushi,Poke,$$,St. Augustine,32084,FL,4.5,Yes,Yes,No
+154,Neros Waterfront Cafe,166,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,3.0,Yes,No,No
+155,Obi's Fillin Station,304,american,American (Traditional),$$,St. Augustine,32080,FL,4.0,Yes,Yes,No
+156,Mimi’s  Famous Crepes,37,cafe/breakfast,Creperies,,St. Augustine,32084,FL,4.5,No,No,No
+157,Borrillo's Pizzeria and Beer & Wine Garden,210,italian,Pizza,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+158,Barnacle Bills Seafood House,35,seafood,Seafood,,St. Augustine,32084,FL,3.5,Yes,No,No
+159,Huey Magoo's - St. Augustine,17,american,Chicken Shop,,St. Augustine,32086,FL,4.0,No,No,No
+160,Keke's Breakfast Cafe,130,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32086,FL,3.5,Yes,No,No
+161,Mayan Summer Foods,1,convenience,Food Stands,,St. Augustine,32084,FL,5.0,No,No,No
+162,Marco's Piano Bar,1,bars/cocktail,Piano Bars,,St. Augustine,32084,FL,5.0,No,No,No
+163,Island Flava Jamaican BBQ & Grill,1,unique_foregin,Caribbean,,St. Augustine,32084,FL,4.0,No,No,No
+164,Celestino's Wine Room,5,bars/cocktail,Wine Bars,,St. Augustine,32080,FL,4.0,Yes,Yes,No
+165,Les Petits Pleasures,252,unique_foregin,French,$,St. Augustine,32080,FL,4.5,Yes,No,No
+166,Auggie's Wings,2,american,Chicken Wings,,St. Augustine,32084,FL,5.0,Yes,Yes,No
+167,Zaba's,147,cafe/breakfast,Coffee & Tea,$,St. Augustine,32080,FL,4.5,Yes,No,No
+168,Pizzalley's Dessert Bar,201,italian,Pizza,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+169,The Fix,3,cafe/breakfast,Sandwiches,,St. Augustine,32084,FL,4.5,Yes,No,No
+170,Brewz N Dawgz,79,american,Hot Dogs,$$,St. Augustine,32086,FL,4.5,Yes,No,No
+171,Schmagel's Bagels,208,cafe/breakfast,Bagels,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+172,Barefoot Bill's Island Grill,122,american,American (New),$$,St. Augustine,32084,FL,3.0,Yes,No,No
+173,Vinny's Pizza,75,italian,Pizza,$,St. Augustine,32084,FL,4.0,Yes,No,No
+174,Tropi Cali Food Truck,13,convenience,Food Trucks,$$,St. Augustine,32084,FL,5.0,Yes,No,No
+175,Little Margie's FA Cafe,174,american,American (New),$$,St. Augustine,32080,FL,4.0,Yes,No,No
+176,D'aleo Italian Deli,80,cafe/breakfast,Delis,$,St. Augustine,32086,FL,4.5,No,No,No
+177,LongHorn Steakhouse,69,cafe/breakfast,Steakhouses,$$,St. Augustine,32086,FL,3.5,No,No,No
+178,Stir It Up,105,cafe/breakfast,Sandwiches,$,St. Augustine,32080,FL,4.0,Yes,No,No
+179,MrBeast Burger,3,cafe/breakfast,Food Delivery Services,,St. Augustine,32084,FL,3.5,No,No,No
+180,Terra & Acqua,231,italian,Italian,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+181,Tijuana Flats,59,mexican/tex-mex,Tex-Mex,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+182,Green Tea,54,asian/sushi,Chinese,$,St. Augustine,32086,FL,4.5,Yes,No,No
+183,Fried Chicken Kitchen,61,convenience,Food Trucks,,St. Augustine,32084,FL,4.5,No,No,No
+184,African Love Kitchen,11,convenience,Food Trucks,$,St. Augustine,32086,FL,5.0,No,No,No
+185,Smokey Jones BBQ,5,american,Barbeque,,St. Augustine,32086,FL,5.0,No,No,No
+186,Ayara Thai Street Cafe,1,asian/sushi,Thai,,St. Augustine,32084,FL,5.0,No,No,No
+187,The Marina Cantina Food Truck,20,convenience,Food Trucks,$,St. Augustine,32084,FL,4.5,Yes,No,No
+188,Smoking D's Downtown,26,american,Barbeque,,St. Augustine,32084,FL,4.5,Yes,No,No
+189,Mikato Japanese Steak House & Sushi Bar,70,asian/sushi,Japanese,$$,St. Augustine,32084,FL,3.5,No,No,No
+190,Corner Bar Sports Bar & Grill,7,american,American (New),$,St. Augustine,32080,FL,3.5,No,No,No
+191,Hazel's Hot Dogs,101,american,Hot Dogs,$,St. Augustine,32084,FL,4.5,Yes,No,No
+192,Sweetwater Coffee Bar and Gallery,63,cafe/breakfast,Coffee & Tea,$$,St. Augustine,32084,FL,4.5,No,No,No
+193,Yummy Wok,38,asian/sushi,Chinese,$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+194,Sakada Japanese Steak House,135,asian/sushi,Japanese,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+195,Real Peel Pizza,3,italian,Pizza,,St. Augustine,32080,FL,4.5,No,No,No
+196,Libby's Thai Bistro,85,asian/sushi,Thai,$$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+197,Namaste,110,unique_foregin,Indian,$$,St. Augustine,32086,FL,3.5,Yes,No,No
+198,Anastasia Diner,86,american,American (Traditional),$$,St. Augustine,32080,FL,4.0,Yes,Yes,No
+199,Island Beach Store & Grill,4,american,American (Traditional),,St. Augustine,32080,FL,5.0,No,No,No
+200,White Lion Restaurant & Pub,189,american,American (Traditional),$$,St. Augustine,32084,FL,2.5,Yes,No,No
+201,The Cuban Cafe And Bakery,142,unique_foregin,Cuban,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+202,Wingin'it,14,convenience,Food Trucks,$,St. Augustine,32084,FL,4.5,Yes,No,No
+203,Outback Steakhouse,79,cafe/breakfast,Steakhouses,$$,St. Augustine,32086,FL,3.0,Yes,Yes,No
+204,Everything Bagel,155,cafe/breakfast,Bagels,$,St. Augustine,32086,FL,4.5,Yes,No,No
+205,Yamato Japanese Steak House & Sushi Bar,116,asian/sushi,Japanese,$$,St. Augustine,32086,FL,3.5,Yes,Yes,No
+206,The Cheese Wheel & Sandwich Board,32,cafe/breakfast,Breakfast & Brunch,$,St. Augustine,32084,FL,3.0,Yes,No,No
+207,Carrabba's Italian Grill,118,italian,Italian,$$,St. Augustine,32086,FL,3.5,Yes,Yes,No
+208,Mr Boba's Asian Cafe,3,asian/sushi,Asian Fusion,$,St. Augustine,32086,FL,4.5,No,No,No
+209,Ichiban Buffet,124,american,Buffets,$$,St. Augustine,32086,FL,3.5,Yes,No,No
+210,Amici Banquet Restaurant,184,italian,Italian,$$,St. Augustine,32080,FL,3.5,Yes,No,No
+211,Chicken Salad Chick,26,american,Southern,,St. Augustine,32084,FL,4.0,Yes,Yes,No
+212,German Street Food,4,convenience,Food Trucks,,St. Augustine,32086,FL,4.5,No,No,No
+213,Creative Juices Natural Cafe,87,bars/cocktail,Juice Bars & Smoothies,$,St. Augustine,32080,FL,4.5,Yes,No,No
+214,I Love Pierogi,2,unique_foregin,Polish,,St. Augustine,32084,FL,5.0,No,No,No
+215,Antonio's Pizza at the Beach,107,italian,Pizza,$,St. Augustine,32080,FL,3.5,Yes,No,No
+216,Old City Subs,18,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,4.0,Yes,No,No
+217,Chick-fil-A,3,american,Fast Food,$,St. Augustine,32084,FL,3.5,No,No,No
+218,The Kookaburra,110,cafe/breakfast,Cafes,$,St. Augustine,32084,FL,4.5,Yes,No,No
+219,Seafood Shoppe Wholesale,3,seafood,Seafood,,St. Augustine,32084,FL,2.5,No,No,No
+220,Village Inn Restaurant,126,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+221,Kaiser's Deli & Market,1,cafe/breakfast,Sandwiches,,St. Augustine,32080,FL,5.0,No,No,No
+222,Sonny's BBQ,88,american,Barbeque,$$,St. Augustine,32084,FL,3.0,Yes,No,No
+223,China One,9,asian/sushi,Chinese,,St. Augustine,32086,FL,4.0,Yes,No,No
+224,El Potro,107,mexican/tex-mex,Mexican,$$,St. Augustine,32084,FL,3.5,Yes,No,No
+225,Dynamic Energy and Nutrition,3,bars/cocktail,Juice Bars & Smoothies,,St. Augustine,32080,FL,5.0,No,No,No
+226,Corner-Sushi,124,asian/sushi,Sushi Bars,$$,St. Augustine,32086,FL,4.5,Yes,No,No
+227,Fire Wok Chinese,38,asian/sushi,Chinese,$,St. Augustine,32084,FL,4.0,Yes,No,No
+228,Moe's Southwest Grill,20,mexican/tex-mex,Tex-Mex,,St. Augustine,32084,FL,2.5,Yes,Yes,No
+229,Chili's,75,american,American (Traditional),$$,St. Augustine,32086,FL,2.5,Yes,Yes,No
+230,Le Cafe,8,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,3.5,No,No,No
+231,Applebee's Grill + Bar,73,american,American (Traditional),$$,St. Augustine,32086,FL,2.0,Yes,Yes,No
+232,Vince'S Sandwich Shop,7,cafe/breakfast,Delis,,St. Augustine,32086,FL,3.5,Yes,No,No
+233,Peking South Restaurant,1,american,Restaurants,,St. Augustine,32086,FL,5.0,No,No,No
+234,Haute Dawgs,5,american,Hot Dogs,,St. Augustine,32084,FL,5.0,Yes,No,No
+235,The Kookabura Coffee,4,cafe/breakfast,Cafes,,St. Augustine,32086,FL,4.5,No,No,No
+236,Jersey Mike's Subs,12,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,3.5,Yes,No,No
+237,De Leon Pizza,67,italian,Pizza,$,St. Augustine,32086,FL,4.0,Yes,No,No
+238,Buffalo Wild Wings,76,american,Chicken Wings,$$,St. Augustine,32086,FL,2.0,Yes,Yes,No
+239,County Road Provisions,13,convenience,Food Trucks,,St. Augustine,32086,FL,5.0,Yes,No,No
+240,Bono's Pit Bar-B-Q,63,american,Barbeque,$$,St. Augustine,32086,FL,3.5,Yes,Yes,No
+241,Steak ’n Shake,93,american,Burgers,$,St. Augustine,32084,FL,2.0,Yes,Yes,No
+242,China Wok,16,asian/sushi,Chinese,,St. Augustine,32084,FL,3.0,No,Yes,No
+243,Red Lobster,67,seafood,Seafood,$$,St. Augustine,32086,FL,3.0,Yes,Yes,No
+244,Circle K,1,convenience,Convenience Stores,,St. Augustine,32080,FL,5.0,No,No,No
+245,Yummy Wok,3,asian/sushi,Chinese,,St. Augustine,32084,FL,2.5,No,No,No
+246,Lava Dome Pizza,1,italian,Pizza,,St. Augustine,32084,FL,5.0,No,No,No
+247,Denny's,88,cafe/breakfast,Breakfast & Brunch,$$,St. Augustine,32084,FL,2.0,No,No,No
+248,Jacks BBQ,49,american,Barbeque,$,St. Augustine,32080,FL,3.0,Yes,No,No
+249,Aleko's Lemonade,1,convenience,Food Stands,$,St. Augustine,32084,FL,5.0,No,No,No
+250,Chick-fil-A,90,american,Fast Food,$,St. Augustine,32084,FL,3.5,No,No,No
+251,Zaxby's,44,american,Fast Food,$,St. Augustine,32084,FL,3.5,Yes,No,No
+252,Panda Express,34,asian/sushi,Chinese,$,St. Augustine,32086,FL,3.0,Yes,Yes,No
+253,Papa Johns Pizza,12,italian,Pizza,$,St. Augustine,32084,FL,1.5,Yes,Yes,No
+254,Honey Baked Ham Company,11,cafe/breakfast,Sandwiches,,St. Augustine,32086,FL,4.0,Yes,Yes,No
+255,Po boy Pauls,1,convenience,Food Trucks,,St. Augustine,32084,FL,1.0,No,No,No
+256,Cone Heads Ice Cream,155,dessert/bakery,Ice Cream & Frozen Yogurt,$,St. Augustine,32080,FL,4.0,Yes,No,No
+257,Taco Bell,30,american,Fast Food,$,St. Augustine,32084,FL,2.0,Yes,No,No
+258,The Cuban Bakery,9,unique_foregin,Cuban,$$,St. Augustine,32084,FL,3.0,No,No,No
+259,Mocup Coffee,25,dessert/bakery,Desserts,$,St. Augustine,32086,FL,4.0,Yes,Yes,No
+260,McDonald's,49,american,Fast Food,$,St. Augustine,32084,FL,1.5,Yes,No,No
+261,Auntie Anne's,1,dessert/bakery,Pretzels,,St. Augustine,32084,FL,1.0,No,No,No
+262,Shubachi,7,convenience,Food Trucks,,St. Augustine,32092,FL,3.0,No,No,No
+263,Jimmy John's,24,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,2.5,No,No,No
+264,Burger King,26,american,Burgers,$,St. Augustine,32084,FL,2.0,Yes,No,No
+265,First Wok,4,american,Restaurants,,St. Augustine,32084,FL,2.0,Yes,No,No
+266,Subway,12,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,4.0,Yes,Yes,No
+267,Woody's Barbecue,14,american,Barbeque,$$,St. Augustine,32084,FL,2.5,No,No,No
+268,KFC,33,american,Fast Food,$,St. Augustine,32084,FL,1.5,Yes,Yes,No
+269,Panera Bread,66,cafe/breakfast,Sandwiches,$,St. Augustine,32086,FL,2.5,Yes,Yes,No
+270,Chipotle Mexican Grill,53,mexican/tex-mex,Mexican,$,St. Augustine,32084,FL,2.5,Yes,Yes,No
+271,Wendy's,32,american,Burgers,$,St. Augustine,32084,FL,1.5,Yes,No,No
+272,Circle K,1,convenience,Convenience Stores,,St. Augustine,32084,FL,1.0,No,No,No
+273,Sonic Drive-In,35,dessert/bakery,Ice Cream & Frozen Yogurt,$,St. Augustine,32086,FL,1.5,No,No,No
+274,Pizza Hut,9,italian,Pizza,$,St. Augustine,32086,FL,1.5,Yes,Yes,No
+275,Domino's Pizza,12,italian,Pizza,$,St. Augustine,32084,FL,3.5,No,No,No
+276,Tyga Bites,1,american,Comfort Food,,St. Augustine,32084,FL,1.0,No,No,No
+277,Domino's Pizza,13,american,Chicken Wings,$,St. Augustine,32080,FL,3.0,No,No,No
+278,Firehouse Subs,29,cafe/breakfast,Sandwiches,$,St. Augustine,32086,FL,2.5,Yes,No,No
+279,Tropical Smoothie Cafe,23,cafe/breakfast,Sandwiches,$,St. Augustine,32080,FL,3.0,Yes,Yes,No
+280,Subway,5,cafe/breakfast,Sandwiches,$,St. Augustine,32084,FL,3.5,Yes,Yes,No
+281,McDonald's,44,american,Fast Food,$,St. Augustine,32084,FL,1.5,Yes,No,No
+282,Arby's,20,cafe/breakfast,Sandwiches,$,St. Augustine,32086,FL,2.5,Yes,Yes,No
+283,McDonald's,18,american,Fast Food,$,St. Augustine,32086,FL,1.0,Yes,No,No
+284,Fran & Tams,1,american,American (New),,St. Augustine,32086,FL,2.0,No,No,No
+286,Circle K,2,convenience,Convenience Stores,,St. Augustine,32084,FL,1.0,No,No,No
+287,Subway,3,cafe/breakfast,Sandwiches,$,St. Augustine,32033,FL,1.5,No,No,No
+288,Circle K,3,convenience,Convenience Stores,,St. Augustine,32080,FL,2.5,No,No,No
+0,Oceanside Beach Bar and Grill,673,american,American (New),$$,Flagler Beach,32136,FL,4.5,No,No,No
+1,Turtle Shack,352,seafood,Seafood,$$,Flagler Beach,32136,FL,4.5,No,No,No
+2,JT's Seafood Shack,574,seafood,Seafood,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+3,The Brown Dog,182,american,Burgers,$$,Palm Coast,32164,FL,4.5,Yes,No,No
+4,Portugal Wine Bar & Grill,248,unique_foregin,Portuguese,$$,Palm Coast,32137,FL,4.5,Yes,No,No
+5,Green Lion Cafe,82,cafe/breakfast,Breakfast & Brunch,,Palm Coast,32137,FL,4.5,Yes,Yes,No
+6,Break Awayz,219,bars/cocktail,Bars,$$,Flagler Beach,32136,FL,4.5,No,No,No
+7,Captains BBQ,540,american,Barbeque,$$,Palm Coast,32137,FL,4.5,No,Yes,No
+9,Millennium Bistro,27,unique_foregin,Brazilian,,Palm Coast,32137,FL,5.0,Yes,No,No
+10,Metro Diner,466,cafe/breakfast,Breakfast & Brunch,$$,Palm Coast,32137,FL,4.0,Yes,Yes,No
+11,Mamaling Asian Street Food,317,asian/sushi,Pan Asian,$$,Palm Coast,32137,FL,4.5,Yes,Yes,No
+12,Flagler Fish Company,538,seafood,Seafood,$$,Flagler Beach,32136,FL,4.0,No,No,No
+13,Adette's Bistro & Bakery,17,dessert/bakery,Bakeries,,Palm Coast,32164,FL,5.0,No,No,No
+14,Red Koi -Palm Coast,35,asian/sushi,Sushi Bars,,Palm Coast,32137,FL,4.5,No,No,No
+16,386,169,american,Salad,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+17,Cantina Louie,87,mexican/tex-mex,Mexican,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+18,Don Luigi's Gourmet Kitchen,62,italian,Italian,$$,Palm Coast,32164,FL,4.0,Yes,Yes,Yes
+19,Palm Harbor Grill,81,unique_foregin,Portuguese,$$,Palm Coast,32137,FL,4.0,Yes,Yes,No
+21,Beach Front Grille,139,american,American (Traditional),$$,Flagler Beach,32136,FL,4.0,No,No,No
+22,Mezzaluna Pizzeria at the European Village,328,italian,Pizza,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+23,Red Crab - Juicy Seafood,23,seafood,Seafood,,Palm Coast,32137,FL,3.5,Yes,Yes,No
+24,El Pollo Colorao,56,unique_foregin,Puerto Rican,$,Palm Coast,32164,FL,4.5,Yes,Yes,No
+25,Fire In The Hole Neapolitan Pizza,38,italian,Italian,$$,Palm Coast,32137,FL,4.0,No,No,No
+26,Thai by Thai,157,asian/sushi,Noodles,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+27,Atlantic Grille,114,seafood,Seafood,$$$,Palm Coast,32137,FL,3.0,Yes,Yes,No
+28,Sylvain's Caribbean Restaurant,26,unique_foregin,Caribbean,,Palm Coast,32137,FL,4.5,Yes,Yes,No
+29,Bronx House Pizza,19,italian,Italian,,Palm Coast,32137,FL,4.0,No,No,No
+30,Hammock Wine & Cheese,30,bars/cocktail,Wine Bars,,Palm Coast,32137,FL,4.0,No,No,No
+31,5th Element Indian Cuisine,170,unique_foregin,Indian,$$,Palm Coast,32137,FL,4.5,Yes,Yes,No
+32,The Net By George,117,seafood,Seafood,$$,Flagler Beach,32136,FL,4.5,No,No,No
+34,Dominic's Deli & Eatery,157,cafe/breakfast,Delis,$$,Palm Coast,32164,FL,4.5,Yes,No,No
+35,Rodie's Place,83,cafe/breakfast,Breakfast & Brunch,$$,Palm Coast,32137,FL,4.5,Yes,No,Yes
+36,Tram's Cafe,50,asian/sushi,Vietnamese,,Palm Coast,32137,FL,4.5,Yes,No,No
+37,Funky Pelican,516,seafood,Seafood,$$,Flagler Beach,32136,FL,3.5,No,No,No
+38,Burrito Works Taco Shop,97,mexican/tex-mex,Mexican,$,Palm Coast,32137,FL,4.0,Yes,No,No
+39,SunBros Café,35,cafe/breakfast,Coffee & Tea,,Flagler Beach,32136,FL,4.5,No,No,No
+40,Redefined Food,9,cafe/breakfast,Food Delivery Services,,Palm Coast,32164,FL,4.5,Yes,No,No
+41,High Tides At Snack Jack,248,seafood,Seafood,$$,Flagler Beach,32136,FL,4.0,No,No,No
+43,La Creperie Kafe,107,cafe/breakfast,Creperies,$$,Palm Coast,32137,FL,5.0,Yes,No,No
+44,Houligan's Palm Coast,108,american,Chicken Wings,$$,Palm Coast,32137,FL,3.5,Yes,No,No
+45,Romero’s Tuscany By The Sea Italian Restaurant,61,italian,Italian,$$,Flagler Beach,32136,FL,4.5,No,No,No
+46,The Anchor,117,seafood,Seafood,$$,Flagler Beach,32136,FL,4.0,No,No,No
+49,Cinco de mayo Authentic Mexican Restaurant,21,mexican/tex-mex,Mexican,,Palm Coast,32164,FL,3.5,No,No,No
+50,Bronx House Pizza,32,italian,Italian,,Palm Coast,32164,FL,4.0,Yes,Yes,No
+52,The Golden Lion Cafe,415,seafood,Seafood,$$,Flagler Beach,32136,FL,3.5,No,No,No
+53,The Village Market Pub & Deli,9,cafe/breakfast,Delis,,Palm Coast,32137,FL,4.0,Yes,Yes,No
+54,La Piazza Cafe,193,italian,Italian,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+55,The Island Grille,75,seafood,Seafood,$$,Flagler Beach,32136,FL,4.0,No,Yes,No
+56,"Latino Market, Restaurant & Bakery",42,unique_foregin,Cuban,$,Palm Coast,32137,FL,4.0,Yes,No,No
+57,Caribbean Treats,10,unique_foregin,Caribbean,,Palm Coast,32137,FL,4.5,Yes,No,No
+58,Highjackers Restaurant,155,american,American (Traditional),$$,Palm Coast,32164,FL,3.5,Yes,No,No
+59,Kawa Sushi,141,asian/sushi,Sushi Bars,$$,Palm Coast,32137,FL,4.0,Yes,Yes,No
+61,Vida Resto Lounge,55,unique_foregin,Latin American,,Palm Coast,32137,FL,4.0,No,No,No
+62,La Pizza Nostra,23,italian,Pizza,,Palm Coast,32137,FL,4.5,Yes,No,No
+64,Burger Bros Pc,39,american,Burgers,,Palm Coast,32137,FL,4.0,Yes,Yes,No
+65,Beach Belly Bob's Sandwich Shop,140,cafe/breakfast,Sandwiches,$,Flagler Beach,32136,FL,5.0,No,No,No
+67,Delfinos Italian Restaurant,49,italian,Italian,$$,Palm Coast,32137,FL,3.0,No,No,No
+69,Tokyo Japanese Steakhouse and Sushi Bar,26,asian/sushi,Japanese,,Palm Coast,32164,FL,3.0,No,No,No
+70,Martin's Restaurant & Lounge,177,american,Fast Food,$$,Flagler Beach,32136,FL,3.5,No,No,No
+72,Texas Roadhouse,88,cafe/breakfast,Steakhouses,,Palm Coast,32137,FL,3.0,No,No,No
+73,China Express,46,asian/sushi,Chinese,$,Palm Coast,32137,FL,4.0,Yes,Yes,No
+74,Lisbon at Night Restaurant & Lisbon Cafe,30,unique_foregin,Mediterranean,$$,Palm Coast,32137,FL,3.5,No,No,No
+75,Delicias of Portugal Cafe & Bakery,46,dessert/bakery,Bakeries,$$,Palm Coast,32137,FL,4.5,Yes,No,No
+78,Java Joint Beachside Grill,265,cafe/breakfast,Breakfast & Brunch,$,Flagler Beach,32136,FL,4.5,No,No,No
+79,Ohana Food,17,bars/cocktail,Juice Bars & Smoothies,,Flagler Beach,32136,FL,5.0,No,No,No
+80,Joe's New York Pizza & Pasta,196,italian,Pizza,$$,Palm Coast,32164,FL,4.0,Yes,No,No
+81,Tortuga's Kitchen & Bar,259,bars/cocktail,Bars,$$,Flagler Beach,32136,FL,3.5,No,No,No
+82,Sushi 99,86,asian/sushi,Sushi Bars,$$,Palm Coast,32137,FL,4.0,Yes,Yes,No
+83,Manny's Pizzeria,53,italian,Pizza,$$,Palm Coast,32137,FL,4.5,Yes,No,No
+85,Friends Cafe,79,american,Diners,$,Flagler Beach,32136,FL,4.5,No,No,No
+86,Finns Beachside Pub,173,american,American (New),$$,Flagler Beach,32136,FL,3.5,No,No,No
+89,Amigos Supermarket,3,unique_foregin,Dominican,,Palm Coast,32137,FL,4.0,Yes,Yes,No
+90,Salsas of Palm Coast,175,mexican/tex-mex,Mexican,$$,Palm Coast,32137,FL,3.0,Yes,No,No
+91,Emilio's Pizza,21,italian,Pizza,,Palm Coast,32137,FL,4.0,Yes,No,No
+92,Sushi Bar -Hammock Beach Resort,19,asian/sushi,Sushi Bars,,Palm Coast,32137,FL,4.0,No,No,No
+93,Carrabba's Italian Grill,114,italian,Italian,$$,Palm Coast,32164,FL,3.5,Yes,Yes,No
+94,Anthony's Pizza,65,italian,Pizza,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+97,Sunshine Shack,11,cafe/breakfast,Creperies,,Flagler Beach,32136,FL,4.0,No,No,No
+98,Island Flavaz,3,unique_foregin,Caribbean,,Flagler Beach,32136,FL,3.0,Yes,Yes,No
+99,Sammy J's Boston's Best Breakfast,45,cafe/breakfast,Breakfast & Brunch,$,Flagler Beach,32136,FL,4.5,No,No,No
+100,Cocos Caribbean Fushion Restaurant,9,unique_foregin,Caribbean,,Flagler Beach,32136,FL,3.0,No,No,No
+101,6th Street Deli,15,cafe/breakfast,Sandwiches,,Flagler Beach,32136,FL,5.0,No,No,No
+102,Stoner's Pizza Joint,2,italian,Pizza,,Palm Coast,32137,FL,5.0,Yes,Yes,No
+103,Vessel Sandwich,81,american,Salad,$$,Flagler Beach,32136,FL,5.0,No,No,No
+104,Faro,73,italian,Pizza,$$,Flagler Beach,32136,FL,4.0,No,No,No
+106,Outback Steakhouse,102,cafe/breakfast,Steakhouses,$$,Palm Coast,32137,FL,2.5,Yes,Yes,No
+107,Culver's,28,american,Burgers,$,Palm Coast,32164,FL,4.0,No,No,No
+108,Fancy Sushi,99,asian/sushi,Japanese,$$,Palm Coast,32174,FL,4.0,Yes,No,No
+109,A1A Burrito Works,138,mexican/tex-mex,Mexican,$,Flagler Beach,32136,FL,4.0,No,No,No
+110,Copper Lotus Cafe & Bistro,1,cafe/breakfast,Breakfast & Brunch,,Palm Coast,32164,FL,5.0,Yes,Yes,No
+111,Oriental Garden,41,asian/sushi,Chinese,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+113,The Pub at Pine Lakes Golf Course,9,american,American (Traditional),$$,Palm Coast,32164,FL,4.0,No,No,No
+114,China King,35,asian/sushi,Chinese,$,Palm Coast,32137,FL,3.5,Yes,No,No
+115,Back to Eden Cafe,25,american,Live/Raw Food,,Flagler Beach,32136,FL,4.0,No,Yes,No
+116,Hi Tulip Cafe,128,american,American (Traditional),$$,Flagler Beach,32136,FL,4.0,No,No,No
+117,Cracker Barrel Old Country Store,100,cafe/breakfast,Breakfast & Brunch,$$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+118,Ai Japanese Restaurant,25,asian/sushi,Japanese,$$,Palm Coast,32164,FL,4.0,Yes,No,No
+119,Sub Base & Bagel Place,37,american,American (New),$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+121,Knuckle Sandwich Sub Shop,19,cafe/breakfast,Sandwiches,,Palm Coast,32164,FL,4.5,Yes,Yes,No
+122,Five Star Pizza,43,italian,Pizza,$,Palm Coast,32137,FL,4.0,Yes,No,No
+123,Sonny's BBQ,110,american,Barbeque,$$,Palm Coast,32164,FL,3.5,Yes,Yes,No
+124,Whaam Burger,73,american,Burgers,$$,Flagler Beach,32136,FL,3.5,No,No,No
+126,Napoli Pizza,54,italian,Pizza,$$,Palm Coast,32164,FL,4.0,Yes,Yes,No
+127,Russian Food,6,cafe/breakfast,Delis,,Flagler Beach,32136,FL,3.5,No,No,No
+128,By The Sea Cafe,44,cafe/breakfast,Cafes,$,Flagler Beach,32136,FL,4.0,No,No,No
+129,King Palace,27,asian/sushi,Chinese,$$,Palm Coast,32137,FL,4.0,Yes,No,No
+130,Zaxby's,34,american,Fast Food,$,Palm Coast,32164,FL,3.5,Yes,Yes,No
+131,Cue Note Billiard Room,15,american,Burgers,$$,Palm Coast,32164,FL,4.0,No,No,No
+132,Hammock Pizza,22,italian,Pizza,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+133,Taste of Portugal,6,unique_foregin,Portuguese,$$,Palm Coast,32137,FL,2.5,No,No,No
+134,Raga Surf Cafe,3,cafe/breakfast,Sandwiches,,Palm Coast,32137,FL,5.0,No,No,No
+136,China One Restaurant,20,asian/sushi,Chinese,$,Palm Coast,32137,FL,3.5,Yes,No,No
+137,Snack Jack,31,seafood,Seafood,$$,Flagler Beach,32136,FL,3.5,No,No,No
+138,Moe's Southwest Grill,31,mexican/tex-mex,Mexican,$$,Palm Coast,32137,FL,3.0,Yes,Yes,No
+139,Bamboo Creek - China Bistro,83,asian/sushi,Chinese,$$,Palm Coast,32164,FL,2.5,Yes,No,No
+140,Honey baked ham store,2,cafe/breakfast,Delis,,Palm Coast,32137,FL,4.0,Yes,Yes,No
+141,Denny's,49,american,Diners,$$,Palm Coast,32137,FL,2.0,No,No,No
+142,Great Wall,28,asian/sushi,Chinese,$,Palm Coast,32137,FL,4.0,Yes,No,No
+143,Checkers,13,american,Burgers,,Palm Coast,32137,FL,2.0,Yes,Yes,No
+144,Kendall's Bagels & More,41,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,3.5,Yes,No,No
+145,Chick-fil-A,63,american,Fast Food,$,Palm Coast,32137,FL,3.5,No,No,No
+146,Steak ’n Shake,103,american,Burgers,$,Palm Coast,32164,FL,2.5,Yes,Yes,No
+148,Giovanni's Pizza & Pasta,70,italian,Italian,$$,Flagler Beach,32136,FL,4.0,No,No,No
+149,IHOP,49,cafe/breakfast,Breakfast & Brunch,$$,Palm Coast,32137,FL,2.5,Yes,Yes,No
+150,Jimmy John's,6,american,Fast Food,,Palm Coast,32137,FL,4.0,No,No,No
+151,Popeyes,62,american,Fast Food,,Palm Coast,32137,FL,1.0,Yes,Yes,No
+152,Woody's Bar-B-Q,64,american,Barbeque,$$,Palm Coast,32137,FL,2.5,Yes,Yes,No
+153,Tropical Smoothie Cafe,21,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+154,China Cafe,34,asian/sushi,Chinese,$,Flagler Beach,32136,FL,3.5,No,No,No
+155,Bob Evans,43,cafe/breakfast,Breakfast & Brunch,$,Palm Coast,32137,FL,2.5,Yes,Yes,No
+156,Brooklyn Mike's Pizza & Restaurant,7,italian,Pizza,,Palm Coast,32137,FL,2.0,Yes,Yes,No
+157,Firehouse Subs,28,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+158,Golden Magnolia Resort,1,cafe/breakfast,Breakfast & Brunch,,Flagler Beach,32136,FL,5.0,No,No,No
+159,Taco Bell,30,mexican/tex-mex,Mexican,$,Palm Coast,32137,FL,3.0,Yes,No,No
+160,McDonald's,61,american,Burgers,$,Palm Coast,32137,FL,1.0,Yes,No,No
+161,Sami's Pizza,43,italian,Pizza,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+162,Olive Garden Italian Restaurant,92,italian,Italian,$$,Palm Coast,32164,FL,3.5,No,No,No
+163,Marco's Pizza,17,italian,Pizza,$,Palm Coast,32164,FL,4.0,Yes,Yes,No
+164,Raw Juice Cafe,31,bars/cocktail,Juice Bars & Smoothies,$,Flagler Beach,32136,FL,4.5,No,No,No
+165,Tropical Breeze Cafe,1,cafe/breakfast,Cafes,,Flagler Beach,32136,FL,5.0,No,No,No
+166,Rocky's Pizzeria and Restaurant,64,italian,Pizza,$,Flagler Beach,32136,FL,4.0,Yes,Yes,No
+167,Rudy’s Deli,2,cafe/breakfast,Coffee & Tea,,Palm Coast,32137,FL,3.0,No,No,No
+168,Chipotle Mexican Grill,19,american,Fast Food,$,Palm Coast,32164,FL,3.5,Yes,Yes,No
+169,NiKi's Pizzeria,3,italian,Italian,,Palm Coast,32137,FL,3.5,No,No,No
+170,Subway,9,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,3.0,Yes,Yes,No
+171,KFC,29,american,Fast Food,$,Palm Coast,32137,FL,2.0,Yes,Yes,No
+172,Pizza Hut,17,italian,Pizza,$,Palm Coast,32137,FL,3.0,Yes,Yes,No
+173,Bamboo Creek China Bistro,13,asian/sushi,Chinese,,Palm Coast,32164,FL,3.0,No,No,No
+174,Wendy's,26,american,Fast Food,$,Palm Coast,32137,FL,2.0,Yes,No,No
+175,Mezzaluna Pizza,65,italian,Pizza,$$,Palm Coast,32164,FL,3.5,Yes,No,No
+176,Papa Johns Pizza,17,italian,Pizza,$,Palm Coast,32137,FL,3.0,Yes,No,No
+177,Hungry Howie's Pizza & Subs,22,italian,Pizza,$,Palm Coast,32139,FL,2.5,Yes,No,No
+178,Wendy's,21,american,Fast Food,$,Palm Coast,32137,FL,1.5,Yes,No,No
+179,Subway,2,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,1.5,Yes,Yes,No
+180,Johnny's Italian & Mediterranean Restaurant,1,italian,Italian,,Palm Coast,32137,FL,1.0,No,No,No
+181,Scoops,1,american,American (Traditional),,Palm Coast,32137,FL,2.0,No,No,No
+182,New Europa,1,bars/cocktail,Bars,,Palm Coast,32137,FL,1.0,No,No,No
+183,Firehouse Subs,2,american,Fast Food,,Palm Coast,32164,FL,5.0,Yes,Yes,No
+184,The Player's Club at Cypress Knoll,1,american,Buffets,,Palm Coast,32164,FL,1.0,No,No,No
+185,Circle K,1,convenience,Convenience Stores,,Palm Coast,32164,FL,1.0,No,No,No
+186,Panda Express,38,asian/sushi,Chinese,$,Palm Coast,32164,FL,2.0,Yes,Yes,No
+187,Domino's Pizza,9,italian,Pizza,$,Palm Coast,32164,FL,3.5,No,No,No
+188,Tony's Pizza,49,italian,Pizza,$$,Flagler Beach,32136,FL,4.0,No,No,No
+189,Panera Bread,88,cafe/breakfast,Sandwiches,$,Palm Coast,32164,FL,2.5,Yes,Yes,No
+191,Circle K,3,convenience,Convenience Stores,,Palm Coast,32137,FL,2.5,No,No,No
+193,Taco Bell,7,mexican/tex-mex,Mexican,,Palm Coast,32164,FL,2.5,Yes,No,No
+194,Burger King,71,american,Burgers,$,Flagler Beach,32136,FL,1.5,Yes,No,No
+195,Tropical Smoothie Cafe,32,bars/cocktail,Juice Bars & Smoothies,$$,Palm Coast,32164,FL,3.5,No,No,No
+196,McDonald's,18,american,Fast Food,$,Palm Coast,32164,FL,2.0,Yes,No,No
+197,Subway,2,cafe/breakfast,Sandwiches,,Palm Coast,32137,FL,3.0,No,No,No
+199,McDonald's,18,american,Burgers,$,Flagler Beach,32136,FL,2.5,Yes,No,No
+201,Pizza Hut,14,italian,Pizza,$,Palm Coast,32164,FL,2.5,No,No,No
+202,Carmine Celery's,4,italian,Pizza,$$,Flagler Beach,32137,FL,3.0,No,No,No
+203,Domino's Pizza,16,italian,Pizza,$,Palm Coast,32137,FL,2.5,No,No,No
+204,Subway,3,cafe/breakfast,Sandwiches,$,Palm Coast,32137,FL,3.5,Yes,Yes,No
+205,Subway,5,cafe/breakfast,Sandwiches,$,Palm Coast,32164,FL,3.0,Yes,Yes,No
+206,Circle K,3,convenience,Convenience Stores,,Flagler Beach,32136,FL,1.5,No,No,No

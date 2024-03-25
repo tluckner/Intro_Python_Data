@@ -1,0 +1,301 @@
+Unnamed: 0,name,review_count,category,Additional categories,price,city,Zip code,state,rating,delivery,pickup,Accepts resvervations
+0,Town Hall,313,american,American (New),$$,Jacksonville,32207,FL,4.5,Yes,Yes,No
+1,The Bearded Pig,1261,american,Barbeque,$$,Jacksonville,32207,FL,4.5,Yes,No,No
+2,BB's,850,american,American (New),$$,Jacksonville,32207,FL,4.5,Yes,Yes,No
+3,Southern Charm,235,american,Soul Food,$$,Jacksonville,32207,FL,4.5,Yes,Yes,No
+4,Bar Molino,20,american,Tapas/Small Plates,,Jacksonville,32207,FL,5.0,No,No,No
+5,Cava,3,american,Salad,,Jacksonville,32202,FL,5.0,No,No,No
+6,Spliff's Gastropub,319,bars/cocktail,Gastropubs,$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+7,Cultural Kitchen & Catering,34,american,Southern,,Jacksonville,32207,FL,5.0,Yes,Yes,No
+8,Pink Salt Restaurant & Wine Bar,164,unique_foregin,Caribbean,$$,Jacksonville,32207,FL,4.0,Yes,No,Yes
+9,Tepeyolot Cerveceria,53,bars/cocktail,Brewpubs,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+10,TAVERNA,466,italian,Italian,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+11,GangNam Korean Restaurant,302,asian/sushi,Korean,$$,Jacksonville,32207,FL,4.5,Yes,Yes,No
+12,Bellwether,182,bars/cocktail,Cocktail Bars,$$,Jacksonville,32202,FL,4.5,Yes,Yes,No
+13,Southbank Johnnie's,9,american,American (Traditional),,Jacksonville,32207,FL,4.0,No,No,No
+14,The Bread & Board,558,cafe/breakfast,Sandwiches,$$,Jacksonville,32202,FL,4.5,Yes,No,No
+15,Floating Sea Aquatics,18,dessert/bakery,Aquarium Services,,Jacksonville,32217,FL,5.0,No,No,No
+16,The Olive Tree Mediterranean Grille,197,american,Falafel,$$,Jacksonville,32207,FL,4.5,Yes,No,No
+17,Purple Roots,151,unique_foregin,Filipino,$$,Jacksonville,32216,FL,4.0,No,No,No
+18,Rue Saint Marc,217,unique_foregin,French,$$,Jacksonville,32207,FL,4.0,Yes,No,No
+19,The Local,225,cafe/breakfast,Coffee & Tea,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+20,River & Post,838,bars/cocktail,Lounges,$$,Jacksonville,32204,FL,4.0,Yes,No,No
+21,Buteko Restaurant Bar & Grill,8,bars/cocktail,Sports Bars,,Jacksonville,32216,FL,5.0,No,No,No
+22,The French Pantry,927,dessert/bakery,Bakeries,$$,Jacksonville,32217,FL,4.5,Yes,No,No
+23,Cowford Chophouse,479,cafe/breakfast,Steakhouses,$$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+24,Silkie's Chicken and Champagne Bar,183,american,Southern,$$,Jacksonville,32206,FL,4.5,No,No,No
+25,Top Pot BBQ,52,american,Hot Pot,,Orange Park,32073,FL,4.5,No,No,No
+26,Metro Diner,851,cafe/breakfast,Breakfast & Brunch,$$,Jacksonville,32207,FL,4.5,Yes,Yes,No
+27,Seafood Island Bar & Grille,167,seafood,Seafood,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+28,Southern Grounds,234,cafe/breakfast,Cafes,$$,Jacksonville,32207,FL,4.5,Yes,No,No
+29,Beach Road Fish House & Chicken Dinners,392,american,Chicken Shop,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+30,Twisting Roots,44,convenience,Food Trucks,$,Jacksonville,32216,FL,4.5,Yes,No,No
+31,Mabins Jollof bowls,1,unique_foregin,African,,Jacksonville,32207,FL,5.0,Yes,Yes,No
+32,Black Sheep Restaurant,1075,american,American (New),$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+33,Flavorikan,19,convenience,Food Trucks,,Jacksonville,32211,FL,5.0,Yes,No,No
+34,Escape Restaurant & Bar,253,unique_foregin,Mediterranean,$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+35,Kusina,31,unique_foregin,Filipino,,Jacksonville,32204,FL,4.5,Yes,No,No
+36,Carolina Jax,257,american,Burgers,$$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+37,Taste of Jamaica,2,unique_foregin,Caribbean,,Jacksonville,32216,FL,4.5,No,No,No
+38,Super Food and Brew,282,american,American (New),$$,Jacksonville,32202,FL,4.5,No,No,No
+39,Bistro AIX,453,unique_foregin,French,$$$,Jacksonville,32207,FL,4.0,Yes,Yes,Yes
+40,Prospect Five Points,105,american,Tapas/Small Plates,$$,Jacksonville,32204,FL,4.5,Yes,No,No
+41,T H C Trap House Chicken,136,american,Chicken Wings,$$,Jacksonville,32277,FL,4.5,Yes,Yes,No
+42,The Choppin Coppin,26,unique_foregin,Caribbean,,Jacksonville,32207,FL,4.5,Yes,Yes,No
+43,The Southern Grill,222,unique_foregin,Mediterranean,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+44,Blue Orchid Thai Cuisine,74,asian/sushi,Thai,$$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+45,RH Rooftop Restaurant Jacksonville,107,american,Tapas/Small Plates,$$$,Jacksonville,32246,FL,4.0,No,No,No
+46,The Southern Italian,26,american,Meat Shops,$$,Jacksonville,32207,FL,4.5,No,No,No
+47,Matthew's Restaurant,255,american,American (New),$$$,Jacksonville,32207,FL,4.0,Yes,No,No
+48,Hawkers Asian Street Food,1745,american,Tapas/Small Plates,$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+49,Rustic 21 Bistro,15,unique_foregin,Brazilian,,Jacksonville,32216,FL,5.0,No,No,No
+50,Bold City Downtown,45,bars/cocktail,Bars,$,Jacksonville,32202,FL,4.5,Yes,No,No
+51,S&R Dim Sum,236,american,Dim Sum,$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+52,Jax Fish Fry,195,american,Fish & Chips,$$,Jacksonville,32256,FL,4.5,Yes,No,No
+53,Arepa Please,199,cafe/breakfast,Coffee & Tea,$$,Jacksonville,32202,FL,4.5,Yes,Yes,No
+54,V Pizza - San Marco,807,italian,Pizza,$$,Jacksonville,32207,FL,4.5,Yes,No,No
+55,Kiko Sushi Ramen,80,american,Ramen,$$,Jacksonville,32256,FL,4.5,Yes,Yes,No
+56,Soupa Noodle Bar,378,american,Ramen,$$,Jacksonville,32216,FL,4.5,Yes,Yes,No
+57,Indulgence Southern Bistro,2,american,Southern,,Jacksonville,32202,FL,5.0,Yes,Yes,No
+58,Sweet Mama's Southern Homestyle Cookin,77,american,Southern,,Jacksonville,32211,FL,4.5,Yes,Yes,No
+59,K-Bop Korean Kitchen,31,asian/sushi,Korean,$$,Jacksonville,32216,FL,4.5,Yes,Yes,No
+60,Empanada's Factory Latin Fusion,376,cafe/breakfast,Breakfast & Brunch,$$,Jacksonville,32256,FL,4.5,Yes,Yes,No
+61,Spices Carribean Restaurant,126,unique_foregin,Caribbean,$$,Jacksonville,32211,FL,4.0,Yes,No,No
+62,El Cemi Puerto Rican Cuisine,4,unique_foregin,Puerto Rican,,Jacksonville,32216,FL,5.0,No,No,No
+63,El Agave Azul - Baymeadows ,203,mexican/tex-mex,New Mexican Cuisine,$$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+64,Midtown Table,259,italian,Italian,$$,Jacksonville,32256,FL,4.5,No,No,No
+65,Kathy's Table,63,american,Gluten-Free,$,Jacksonville,32216,FL,4.5,Yes,No,No
+66,90 Miles from Cuba,5,unique_foregin,Cuban,,Jacksonville,32246,FL,4.5,Yes,No,No
+67,Soul Food Bistro,447,american,Southern,$$,Jacksonville,32225,FL,4.0,Yes,No,No
+68,River Club,21,convenience,Caterers,$$$$,Jacksonville,32202,FL,4.0,No,No,No
+69,Le Petit Paris,439,unique_foregin,French,$$,Jacksonville,32257,FL,4.5,Yes,Yes,No
+70,Stonewood Grill & Tavern,249,american,American (New),$$,Jacksonville,32217,FL,4.0,Yes,Yes,No
+71,Sara's Bakery Cafe,33,dessert/bakery,Bakeries,,Jacksonville,32207,FL,4.5,Yes,Yes,No
+72,Island Wing Grill & Bar - Jacksonville,237,american,Chicken Wings,$$,Jacksonville,32216,FL,3.5,Yes,Yes,No
+73,Fore Score A Golf Tavern,11,bars/cocktail,Sports Bars,,Jacksonville,32207,FL,4.5,No,No,No
+74,Korean BBQ House,137,asian/sushi,Korean,$$,Orange Park,32073,FL,4.0,Yes,No,No
+75,Mi Veracruz Restaurant,135,mexican/tex-mex,Mexican,$,Jacksonville,32207,FL,4.5,Yes,No,No
+76,Ocean Street Tacos,32,mexican/tex-mex,Tacos,,Jacksonville,32202,FL,4.5,Yes,Yes,No
+77,Indochine,386,asian/sushi,Thai,$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+78,European Street Cafe,190,cafe/breakfast,Sandwiches,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+79,China Dragon,51,asian/sushi,Chinese,$,Jacksonville,32207,FL,4.5,Yes,No,No
+80,Marianas Grinds,436,american,Hawaiian,$,Jacksonville,32246,FL,4.5,Yes,No,No
+81,Balkan Cafe,101,unique_foregin,Modern European,$,Jacksonville,32216,FL,5.0,Yes,No,No
+82,Jumpin' Jax House of Food,27,american,Burgers,$$,Jacksonville,32202,FL,4.5,Yes,Yes,No
+83,Modu Ramen,323,american,Ramen,$$,Jacksonville,32256,FL,4.5,Yes,Yes,No
+84,True Food Kitchen,438,american,American (New),$$,Jacksonville,32246,FL,4.5,Yes,Yes,No
+85,Mesa,52,unique_foregin,Indian,$$,Jacksonville,32210,FL,5.0,No,No,No
+86,Homespun Kitchen,9,cafe/breakfast,Breakfast & Brunch,,Jacksonville,32204,FL,4.5,No,No,No
+87,Shor Seafood Grill & Tavern,24,american,American (New),$$,Jacksonville,32202,FL,3.0,Yes,No,No
+88,Sr. Ceviche,3,unique_foregin,Peruvian,,Jacksonville,32257,FL,4.0,Yes,Yes,No
+89,1928 Cuban Bistro,255,unique_foregin,Cuban,$$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+90,Wicked Barley Brewing,576,american,American (Traditional),$$,Jacksonville,32217,FL,4.0,Yes,No,No
+91,Casa Bonita Mexican Bar and Grill,4,mexican/tex-mex,Mexican,,Jacksonville,32217,FL,5.0,No,No,No
+92,Fresh From the Garden,22,cafe/breakfast,Cafes,$,Jacksonville,32207,FL,4.5,Yes,No,No
+93,Maple Street Biscuit Company - San Marco,1093,american,Southern,$,Jacksonville,32204,FL,4.5,Yes,No,No
+94,The Cookbook Restaurant,58,american,American (Traditional),,Jacksonville,32206,FL,4.0,Yes,Yes,No
+95,Crispy's Springfield Gallery,211,italian,Pizza,$$,Jacksonville,32206,FL,4.5,Yes,No,No
+96,Thai Spice Kitchen,202,asian/sushi,Thai,$$,Jacksonville,32216,FL,4.0,Yes,No,No
+97,Sake House 2,171,asian/sushi,Sushi Bars,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+98,Bodrum Mediterranean Kitchen,229,unique_foregin,Mediterranean,$$,Jacksonville,32244,FL,4.5,Yes,Yes,No
+99,Bay Street Bar and Grill,94,bars/cocktail,Bars,$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+100,Altoque Colombian Food,28,unique_foregin,Colombian,,Jacksonville,32257,FL,4.5,Yes,Yes,No
+101,Underbelly,27,bars/cocktail,Bars,$$,Jacksonville,32202,FL,3.5,No,No,No
+102,The Juicy Crab,446,seafood,Seafood,$$,Jacksonville,32246,FL,4.0,Yes,No,No
+103,Hightide Burrito & Bar,57,mexican/tex-mex,Mexican,$$,Jacksonville,32210,FL,4.0,Yes,No,No
+104,Bazille,197,american,American (New),$$,Jacksonville,32246,FL,4.5,Yes,No,No
+105,Noble Italian & American restaurant,1,italian,Pizza,,Jacksonville,32277,FL,5.0,No,No,No
+106,Lakeside Cafe,3,american,Restaurants,,Jacksonville,32256,FL,4.5,Yes,No,No
+107,Southern Coast Seafood,179,seafood,Seafood,$$,Jacksonville,32225,FL,4.5,Yes,No,No
+108,Chopstick Charley's,32,unique_foregin,Cantonese,$,Jacksonville,32207,FL,3.5,Yes,No,No
+109,Rice and Noodles,125,asian/sushi,Korean,$,Jacksonville,32225,FL,4.5,Yes,No,No
+110,Tasty Pot,96,asian/sushi,Taiwanese,$$,Jacksonville,32256,FL,4.5,Yes,Yes,No
+111,Village Bread Café,21,cafe/breakfast,Cafes,,Jacksonville,32207,FL,4.5,Yes,Yes,No
+112,Casa Dora Italian Cafe,230,italian,Italian,$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+113,Moca Cafe,49,american,American (New),$$,Jacksonville,32202,FL,4.0,No,No,No
+114,Flavors of Thai and Bar,103,asian/sushi,Thai,$$,Jacksonville,32207,FL,3.5,Yes,No,No
+115,DOMU,746,american,Ramen,$$,Jacksonville,32246,FL,4.5,Yes,No,No
+116,Sam Won Garden Restaurant,242,asian/sushi,Korean,$$,Jacksonville,32216,FL,4.0,Yes,Yes,No
+117,La Nota Restaurant,4,unique_foregin,Empanadas,,Jacksonville,32216,FL,5.0,No,No,No
+118,Iguana On Park,140,unique_foregin,Latin American,$$,Jacksonville,32205,FL,4.0,Yes,Yes,No
+119,Kim's Korean BBQ,324,asian/sushi,Korean,$$,Jacksonville,32257,FL,4.0,Yes,No,No
+120,Burrito Gallery Downtown,497,mexican/tex-mex,Mexican,$$,Jacksonville,32202,FL,3.5,Yes,Yes,No
+121,Orsay,985,unique_foregin,French,$$$,Jacksonville,32205,FL,4.5,Yes,No,No
+122,Mama Lu's,67,unique_foregin,Filipino,$,Jacksonville,32225,FL,4.5,Yes,No,No
+123,Toscana Little Italy,114,italian,Pizza,$$,Jacksonville,32207,FL,3.5,Yes,No,No
+124,Casa Maria Tequila Bar & Grill,23,mexican/tex-mex,Mexican,,Jacksonville,32216,FL,4.5,No,No,No
+125,Beignets Caribbean Cafe,51,unique_foregin,Caribbean,$,Jacksonville,32207,FL,4.0,Yes,No,No
+126,Rod's Crab Shack,29,seafood,Seafood,,Jacksonville,32207,FL,4.5,Yes,Yes,No
+127,The Mossfire Grill,309,bars/cocktail,"Beer, Wine & Spirits",$$,Jacksonville,32204,FL,4.0,Yes,No,No
+128,Toon Town Pizzeria,2,italian,Pizza,,Jacksonville,32202,FL,5.0,Yes,Yes,No
+129,Hot Pot Korean BBQ,346,asian/sushi,Korean,$$$,Jacksonville,32246,FL,4.0,No,No,No
+130,Firebirds Wood Fired Grill,414,bars/cocktail,Wine Bars,$$,Jacksonville,32246,FL,4.0,Yes,Yes,No
+131,Estrella Cocina,113,mexican/tex-mex,Mexican,$$,Jacksonville,32202,FL,3.0,Yes,No,No
+132,Hoptinger Bier Garden & Sausage House,496,bars/cocktail,Gastropubs,$$,Jacksonville,32204,FL,3.5,Yes,Yes,No
+133,Sushi & Sub,15,asian/sushi,Sushi Bars,$,Jacksonville,32207,FL,4.5,Yes,No,No
+134,Southern Roots Filling Station,276,cafe/breakfast,Coffee & Tea,$$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+135,Jax Bread,187,dessert/bakery,Bakeries,$$,Jacksonville,32256,FL,4.5,Yes,No,No
+136,Carmines Pie House,899,italian,Pizza,$$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+137,1748 Bakehouse,102,dessert/bakery,Bakeries,$,Jacksonville,32206,FL,4.5,No,Yes,No
+138,Añejo Cocina Mexican,84,mexican/tex-mex,Mexican,$$,Jacksonville,32202,FL,4.0,No,No,No
+139,Mambos Cuban Cafe Express,190,unique_foregin,Cuban,$$,Jacksonville,32246,FL,4.5,Yes,No,No
+140,Morton's The Steakhouse,124,cafe/breakfast,Steakhouses,$$$,Jacksonville,32202,FL,3.5,Yes,Yes,No
+141,Terra Gaucha Brazilian Steakhouse,805,unique_foregin,Brazilian,$$$,Jacksonville,32216,FL,4.5,No,No,No
+142,Uptown Kitchen & Bar,406,cafe/breakfast,Breakfast & Brunch,$$,Jacksonville,32206,FL,3.5,Yes,Yes,No
+143,Royal Palms Cafe and Catering,11,cafe/breakfast,Breakfast & Brunch,,Jacksonville,32207,FL,5.0,Yes,Yes,No
+144,Village Bread Café,94,cafe/breakfast,Delis,$,Jacksonville,32207,FL,4.0,Yes,No,No
+145,Taqueria CINco,210,cafe/breakfast,Breakfast & Brunch,$$,Jacksonville,32204,FL,4.5,Yes,No,No
+146,Chart House,319,seafood,Seafood,$$$,Jacksonville,32207,FL,3.0,Yes,Yes,No
+147,Tommy Bahama | Marlin Bar - Jacksonville,129,american,American (New),$$,Jacksonville,32246,FL,4.0,Yes,Yes,No
+148,Taco Loco,10,mexican/tex-mex,Mexican,$$,Jacksonville,32217,FL,4.0,No,No,No
+149,Taste Of Thai,135,asian/sushi,Thai,$$,Jacksonville,32216,FL,4.5,Yes,No,No
+150,D & G Deli & Grill,115,cafe/breakfast,Sandwiches,$,Jacksonville,32202,FL,4.5,Yes,No,No
+151,Sorrento Italian Restaurant,99,italian,Italian,$$,Jacksonville,32217,FL,4.0,Yes,Yes,No
+152,The Butt Hutt Smokehouse,76,convenience,Food Trucks,$$,Jacksonville,32205,FL,5.0,Yes,Yes,No
+153,Blue Boy Sandwich Shop,118,cafe/breakfast,Sandwiches,$$,Jacksonville,32208,FL,4.5,Yes,Yes,No
+154,Fresh Mex & Company,189,mexican/tex-mex,Tacos,$$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+155,La Gran Parada,19,bars/cocktail,Juice Bars & Smoothies,$,Jacksonville,32207,FL,4.0,Yes,No,No
+156,Jazzy's Restaurant and Lounge,142,bars/cocktail,Jazz & Blues,$$,Jacksonville,32204,FL,3.5,Yes,Yes,No
+157,Mariscos El Pacifico,20,seafood,Seafood,,Jacksonville,32217,FL,4.0,No,No,No
+158,Q Noodle Asian Cuisine,2,asian/sushi,Asian Fusion,,Jacksonville,32216,FL,4.5,Yes,Yes,No
+159,Burger Barn Grill,16,american,Burgers,$$,Jacksonville,32256,FL,4.5,Yes,Yes,No
+160,World of Beer Jacksonville Southpoint,51,bars/cocktail,"Beer, Wine & Spirits",$$,Jacksonville,32216,FL,3.5,Yes,Yes,No
+161,Buchner’s Bierhalle,84,bars/cocktail,Beer Bar,$$,Jacksonville,32205,FL,4.5,Yes,No,No
+162,Sandwich House,43,cafe/breakfast,Sandwiches,$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+163,L&L Hawaiian Grill,82,american,Barbeque,$$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+164,Eddis & Sons Cheesesteaks,144,cafe/breakfast,Cheesesteaks,$$,Jacksonville,32216,FL,4.5,Yes,No,No
+165,Chiqui Burger,2,unique_foregin,Venezuelan,$$,Jacksonville,32246,FL,5.0,No,No,No
+166,One Night Taco Stand,371,mexican/tex-mex,Tacos,$$,Jacksonville,32257,FL,4.0,Yes,No,No
+167,The Happy Grilled Cheese,157,convenience,Food Trucks,$,Jacksonville,32202,FL,4.0,Yes,No,No
+168,The Loop,122,italian,Pizza,$$,Jacksonville,32207,FL,3.5,Yes,Yes,No
+169,Takeria Mix,29,unique_foregin,Latin American,$,Jacksonville,32217,FL,4.0,Yes,No,No
+170,Bamboo Express,29,asian/sushi,Chinese,$,Jacksonville,32217,FL,4.0,Yes,Yes,No
+171,Seven Bridges Brewery,396,american,American (Traditional),$$,Jacksonville,32246,FL,3.5,Yes,Yes,No
+172,Piccadilly Cafeteria,33,cafe/breakfast,Breakfast & Brunch,$,Jacksonville,32207,FL,3.0,Yes,No,No
+173,Biscottis,696,american,American (Traditional),$$,Jacksonville,32205,FL,4.5,Yes,No,No
+174,Damascus Kitchen,40,american,Falafel,$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+175,Hightide,10,cafe/breakfast,Sandwiches,$,Jacksonville,32207,FL,4.0,No,No,No
+176,The Mitt Tex-Mex Cafe,81,cafe/breakfast,Cafes,$,Jacksonville,32216,FL,4.5,Yes,Yes,No
+177,1928 Cuban Bistro,29,dessert/bakery,Bakeries,$$,Jacksonville,32244,FL,4.5,No,No,No
+178,Fast Eddy's Quick Mideast,173,unique_foregin,Middle Eastern,$$,Jacksonville,32256,FL,5.0,Yes,Yes,No
+179,Hibachi Express,48,asian/sushi,Sushi Bars,,Jacksonville,32216,FL,4.0,Yes,No,No
+180,Jacksonville Sports Tavern,41,american,Burgers,$$,Jacksonville,32202,FL,3.5,Yes,No,No
+181,The Blue Fish Restaurant And Oyster Bar,639,seafood,Seafood,$$,Jacksonville,32205,FL,4.0,Yes,No,No
+182,The Flame Broiler,31,american,Salad,$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+183,Urban Vietnamese,19,asian/sushi,Vietnamese,$$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+184,98 Forty East Bar & Bistro,6,bars/cocktail,Bars,,Jacksonville,32246,FL,4.0,No,No,No
+185,J J's Cafe,6,cafe/breakfast,Cafes,$,Jacksonville,32216,FL,5.0,Yes,No,No
+186,Mady's,33,american,Salad,$,Jacksonville,32211,FL,4.5,Yes,No,No
+187,Shakti Life Kitchen,2,american,Vegan,,Jacksonville,32207,FL,5.0,Yes,No,No
+188,Athens Cafe,109,unique_foregin,Greek,$$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+189,Whiskey Jax,322,bars/cocktail,Bars,$$,Jacksonville,32256,FL,3.5,Yes,Yes,No
+190,Cuban Pizzeria,40,italian,Pizza,$,Jacksonville,32216,FL,4.0,Yes,Yes,No
+191,Ida Claire,487,cafe/breakfast,Breakfast & Brunch,$$,Jacksonville,32246,FL,4.5,Yes,No,No
+192,Island Tropics,108,unique_foregin,Caribbean,$,Jacksonville,32206,FL,4.0,Yes,No,No
+193,K-bop Korean kitchen,21,convenience,Food Trucks,,Jacksonville,32216,FL,4.5,No,No,No
+194,Grub Burger Bar,450,american,Burgers,$$,Jacksonville,32246,FL,4.5,Yes,Yes,No
+195,Senor Loco Tacos and Tequila,125,mexican/tex-mex,Mexican,,Jacksonville,32216,FL,4.0,Yes,Yes,No
+196,Bold Birds Nashville Hot Chicken ,167,american,Chicken Shop,$$,Jacksonville,32205,FL,4.0,Yes,No,No
+197,Kaika Teppanyaki,300,asian/sushi,Asian Fusion,$$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+198,13 Gypsies,312,unique_foregin,Spanish,$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+199,Benchwarmers Cafe,11,american,American (Traditional),,Jacksonville,32207,FL,5.0,Yes,Yes,No
+200,Berndt Ends BBQ,252,american,Barbeque,$$,Jacksonville,32258,FL,4.5,Yes,No,No
+201,Jumpin' Jax House of Food,318,italian,Pizza,$$,Jacksonville,32257,FL,4.5,Yes,No,No
+202,Mama's Food,35,convenience,Food Trucks,$,Jacksonville,32207,FL,4.5,No,No,No
+203,The Mudville Grille,47,american,American (Traditional),$$,Jacksonville,32207,FL,3.0,Yes,Yes,No
+204,Pisco's Restaurant,150,unique_foregin,Peruvian,$$,Jacksonville,32216,FL,4.0,Yes,No,No
+205,Los Andes Restaurant,59,unique_foregin,Latin American,$$,Jacksonville,32225,FL,4.5,Yes,Yes,No
+206,Copeland's,404,american,Cajun/Creole,$$,Jacksonville,32216,FL,3.5,Yes,Yes,No
+207,St. Johns Provision,11,american,Southern,$$,Jacksonville,32207,FL,3.5,Yes,No,No
+208,Tipicos Antojitos Hondureños,18,convenience,Food Trucks,,Jacksonville,32216,FL,4.5,No,No,No
+209,Hala’s Mideast Eatery And Market,112,dessert/bakery,Bakeries,$$,Jacksonville,32216,FL,4.5,Yes,Yes,No
+210,The Happy Grilled Cheese Mandarin,157,cafe/breakfast,Sandwiches,$,Jacksonville,32257,FL,4.5,Yes,Yes,No
+211,Luigi's Touchdown Grill,7,cafe/breakfast,Breakfast & Brunch,$,Jacksonville,32202,FL,4.5,Yes,Yes,No
+212,The Bread & Board Provisions,1,cafe/breakfast,Coffee & Tea,,Jacksonville,32202,FL,5.0,No,No,No
+213,Cooper's Hawk Winery & Restaurant - Jacksonville,696,american,American (New),$$,Jacksonville,32246,FL,4.0,Yes,No,No
+214,Persepolis Cafe,1,unique_foregin,Persian/Iranian,,Jacksonville,32217,FL,5.0,No,No,No
+215,Soul Food Express,29,american,Soul Food,$$,Jacksonville,32206,FL,4.5,Yes,No,No
+216,Hot Dog Party,14,american,Hot Dogs,,Jacksonville,32207,FL,5.0,No,No,No
+217,Culhane's Irish Pub & Restaurant,395,unique_foregin,Irish,$$,Jacksonville,32246,FL,4.5,Yes,No,No
+218,Timwah Dim Sum Restaurant,411,american,Dim Sum,$$,Jacksonville,32256,FL,4.5,Yes,No,No
+219,Chello’s Pizza,14,italian,Pizza,,Jacksonville,32217,FL,4.5,No,No,No
+220,El Rinconcito De Lima,38,unique_foregin,Peruvian,$$,Jacksonville,32216,FL,4.5,Yes,Yes,No
+221,The Lumpia Lady,5,unique_foregin,Filipino,$$,Jacksonville,32207,FL,4.5,No,No,No
+222,Mr. Taco,12,convenience,Food Trucks,$,Jacksonville,32216,FL,4.5,Yes,No,No
+223,The Conch Shell,8,unique_foregin,Caribbean,,Jacksonville,32206,FL,5.0,Yes,Yes,No
+224,Kazu Sushi Burrito,84,asian/sushi,Japanese,$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+225,BREW Five Points,305,cafe/breakfast,Coffee & Tea,$,Jacksonville,32204,FL,4.5,Yes,No,No
+226,Haretna Mediterranean Cuisine,79,unique_foregin,Mediterranean,$$,Jacksonville,32225,FL,4.0,Yes,Yes,No
+227,Mega's Pizzeria,59,italian,Pizza,$$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+228,Yara Seafood,7,seafood,Seafood,,Jacksonville,32207,FL,4.0,Yes,No,No
+229,Rods Crab Shack & More,92,seafood,Seafood Markets,$$,Jacksonville,32225,FL,4.5,Yes,Yes,No
+230,La Bodega Original,47,unique_foregin,Latin American,$$,Jacksonville,32210,FL,4.5,Yes,Yes,No
+231,El Taino Bar And Restaurant,60,unique_foregin,Latin American,$$,Jacksonville,32216,FL,3.5,Yes,No,No
+232,Currents Riverview Bistro,6,american,American (New),$,Jacksonville,32207,FL,4.0,Yes,No,No
+233,Corner Taco,514,mexican/tex-mex,Tacos,$$,Jacksonville,32204,FL,4.0,Yes,Yes,No
+234,4 Rivers Smokehouse,666,american,Barbeque,$$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+235,The Flame Broiler,74,asian/sushi,Korean,$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+236,Nacho Taco,353,convenience,Food Stands,$,Jacksonville,32204,FL,4.5,Yes,Yes,No
+237,Mad O Seafood,153,seafood,Seafood,$$,Jacksonville,32257,FL,4.5,Yes,Yes,No
+238,Austins Soul Food,86,american,Soul Food,$$,Jacksonville,32208,FL,4.0,Yes,No,No
+239,Paris Bánh Mì Cafe Bakery - Jacksonville,140,asian/sushi,Vietnamese,$,Jacksonville,32224,FL,4.5,Yes,No,No
+240,4 Rivers Smokehouse,277,american,Barbeque,$$,Orange Park,32073,FL,4.0,Yes,Yes,No
+241,World Food Mart Food Corner,60,asian/sushi,Korean,$,Jacksonville,32207,FL,4.0,No,No,No
+242,One Night Taco Stand,130,mexican/tex-mex,Tacos,$,Orange Park,32073,FL,4.0,Yes,Yes,No
+243,Super Tienda Latina,6,mexican/tex-mex,Mexican,$,Jacksonville,32217,FL,4.0,No,No,No
+244,The Cuban Place,114,unique_foregin,Cuban,$$,Jacksonville,32257,FL,4.5,Yes,No,No
+245,Bitchin Bagel,1,cafe/breakfast,Breakfast & Brunch,,Jacksonville,32256,FL,3.0,Yes,No,No
+246,Victory Lap BBQ Social - Jacksonville,9,american,Barbeque,,Jacksonville,32216,FL,3.5,Yes,Yes,No
+247,Neon Moon,1,american,Tapas Bars,,Jacksonville,32204,FL,5.0,No,No,No
+248,Island Girl Seafood,24,convenience,Food Trucks,,Jacksonville,32216,FL,4.0,No,No,No
+249,Kickbacks Gastropub-Goozlepipe & Guttyworks,1152,bars/cocktail,Gastropubs,$$,Jacksonville,32204,FL,3.5,Yes,No,No
+250,Nudo Vietnamese Cuisine,182,asian/sushi,Vietnamese,$$,Jacksonville,32257,FL,4.5,Yes,Yes,No
+251,Beirut Restaurant & Spirits,213,unique_foregin,Lebanese,$$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+252,Aroi Thai,88,asian/sushi,Thai,$$,Jacksonville,32204,FL,4.0,Yes,No,No
+253,Noura Cafe,158,unique_foregin,Middle Eastern,$$,Jacksonville,32217,FL,4.5,Yes,Yes,No
+254,La Cena Ristorante,101,italian,Italian,$$$,Jacksonville,32205,FL,4.0,Yes,No,No
+255,Cantina Louie,306,mexican/tex-mex,Mexican,$$,Jacksonville,32246,FL,4.0,Yes,No,No
+256,Cajun Crab Juicy Seafood & Bar,25,american,Cajun/Creole,,Jacksonville,32225,FL,4.0,Yes,Yes,No
+257,Tabouleh Mediterranean Cafe,285,unique_foregin,Mediterranean,$$,Jacksonville,32277,FL,4.5,Yes,Yes,No
+258,Picasso's,692,italian,Pizza,$$,Jacksonville,32257,FL,4.5,Yes,No,No
+259,Burrito Gallery - Brooklyn,332,bars/cocktail,Bars,$$,Jacksonville,32202,FL,3.5,Yes,Yes,No
+260,The Red Gill Bistro,58,american,American (Traditional),,Jacksonville,32256,FL,4.0,Yes,Yes,No
+261,Mojitos Caribbean Cuisine Bar & Grill,32,bars/cocktail,Bars,$$,Jacksonville,32256,FL,3.5,Yes,No,No
+262,The River House,2,bars/cocktail,Bars,$,Jacksonville,32211,FL,3.5,No,No,No
+263,Norikase,69,asian/sushi,Sushi Bars,,Jacksonville,32246,FL,4.5,Yes,No,No
+264,Prati Italia,221,italian,Italian,$$,Jacksonville,32246,FL,4.0,Yes,Yes,No
+265,Woffs,3,american,Vegan,,Jacksonville,32207,FL,4.5,Yes,Yes,No
+266,La Colonia,4,unique_foregin,Latin American,$,Jacksonville,32207,FL,4.0,No,No,No
+267,Newk's Eatery,86,italian,Pizza,$$,Jacksonville,32256,FL,4.0,Yes,Yes,No
+268,Hot Wok,30,asian/sushi,Chinese,$,Jacksonville,32207,FL,4.0,Yes,Yes,No
+269,Tailgate Bar & Grill,1,bars/cocktail,Bars,$,Jacksonville,32202,FL,1.0,No,No,No
+270,Murray Hillbilly,134,american,American (Traditional),$$,Jacksonville,32205,FL,4.0,Yes,Yes,No
+271,Juliette's Bistro,96,american,American (Traditional),$$,Jacksonville,32202,FL,3.5,Yes,No,No
+272,Amazing Thai restaurant,46,asian/sushi,Thai,,Jacksonville,32256,FL,4.0,Yes,Yes,No
+273,Lola's Burrito & Burger Joint,586,mexican/tex-mex,Mexican,$$,Jacksonville,32205,FL,4.0,Yes,Yes,No
+274,Cheddar's Scratch Kitchen,396,american,American (Traditional),$$,Jacksonville,32246,FL,3.0,No,No,No
+275,Vale Food Co,133,american,American (New),$$,Jacksonville,32202,FL,4.0,Yes,Yes,No
+276,Aladdin Grill,48,unique_foregin,Middle Eastern,,Jacksonville,32246,FL,4.5,Yes,Yes,No
+277,Culver’s,20,american,Burgers,$$,Jacksonville,32225,FL,4.0,No,No,No
+278,Havana Jax,116,unique_foregin,Cuban,$$,Jacksonville,32207,FL,3.5,Yes,Yes,No
+279,Soul Food Bistro,229,american,Soul Food,$$,Jacksonville,32205,FL,4.5,Yes,No,No
+280,Mr. Taco,236,mexican/tex-mex,Tex-Mex,$,Jacksonville,32216,FL,4.0,Yes,Yes,No
+281,III Forks Prime Steakhouse,362,cafe/breakfast,Steakhouses,$$$,Jacksonville,32246,FL,3.5,Yes,Yes,No
+282,Thai & Lao Bistro,95,asian/sushi,Thai,$$,Jacksonville,32225,FL,4.5,Yes,No,No
+283,1FoxyLadyCafe,15,cafe/breakfast,Cafes,,Jacksonville,32206,FL,4.5,Yes,Yes,No
+284,El Castillo Taqueria & Bakery,192,mexican/tex-mex,Mexican,$,Jacksonville,32223,FL,4.5,Yes,No,No
+285,Eva's 1925 Sportsbar & Grill,1,american,American (Traditional),,Jacksonville,32202,FL,5.0,Yes,Yes,No
+286,Hamburger Mary's - Jacksonville,262,american,Burgers,$$,Jacksonville,32207,FL,3.5,Yes,Yes,Yes
+287,Vegan Cafe Jax,37,american,Vegan,$$,Jacksonville,32207,FL,5.0,Yes,Yes,No
+288,Bonchon,310,asian/sushi,Korean,$$,Jacksonville,32246,FL,4.0,Yes,Yes,No
+289,China 99,28,asian/sushi,Asian Fusion,$,Jacksonville,32207,FL,3.5,Yes,Yes,No
+290,Blacktail Bar & Grill,14,bars/cocktail,Bars,,Jacksonville,32217,FL,4.5,Yes,No,No
+291,Breezy Jazz House,45,bars/cocktail,Jazz & Blues,$$,Jacksonville,32207,FL,3.5,No,No,No
+292,904 Tacos Five Points,84,mexican/tex-mex,Tacos,$$,Jacksonville,32204,FL,3.0,Yes,No,No
+293,Broadway Deli & Grill,83,american,American (Traditional),$,Jacksonville,32216,FL,4.5,Yes,No,No
+294,Adams Sandwich Shoppe,28,cafe/breakfast,Breakfast & Brunch,$,Jacksonville,32217,FL,4.0,Yes,No,No
+295,Pinegrove Market & Deli,206,convenience,Grocery,$$,Jacksonville,32205,FL,4.5,Yes,No,No
+296,Fusion Sushi,91,asian/sushi,Sushi Bars,$$,Jacksonville,32217,FL,4.0,Yes,Yes,No
+297,Biggies Pizza - Southside,99,italian,Pizza,,Jacksonville,32216,FL,4.0,No,No,No
+298,Players Grille,69,bars/cocktail,Sports Bars,$$,Jacksonville,32207,FL,3.5,Yes,No,No
+299,Ruth's Chris Steak House,312,cafe/breakfast,Steakhouses,$$$,Jacksonville,32207,FL,4.0,Yes,Yes,No

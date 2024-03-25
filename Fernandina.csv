@@ -1,0 +1,160 @@
+Unnamed: 0,name,review_count,category,Additional categories,price,city,Zip code,state,rating,delivery,pickup,Accepts resvervations
+0,Salty Pelican Bar & Grill,1187,american,American (Traditional),$$,Fernandina Beach,32034,FL,4,No,No,No
+1,The Patio at 5th and Ash,6,bars/cocktail,Wine Bars,,Fernandina Beach,32034,FL,5,No,No,No
+2,Timoti's Seafood Shak,981,american,American (New),$$,Fernandina Beach,32034,FL,4.5,No,No,No
+3,The Boat House,158,seafood,Seafood,$$,Fernandina Beach,32034,FL,4,No,No,No
+4,Beech Street Grill,67,american,American (New),$$,Fernandina Beach,32034,FL,4,No,No,No
+5,Down Under Restaurant,475,seafood,Seafood,$$,Fernandina Beach,32034,FL,4,No,No,No
+6,España Restaurant & Tapas,501,unique_foregin,Spanish,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+7,Burlingame,195,american,American (New),$$$,Fernandina Beach,32034,FL,4.5,No,No,No
+8,Area 51 BBQ & Grill,102,asian/sushi,Korean,,Fernandina Beach,32034,FL,4.5,No,No,No
+9,Wicked Bao,456,asian/sushi,Asian Fusion,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+10,Kitchen 251,58,convenience,Food Trucks,,Fernandina Beach,32034,FL,4.5,No,No,No
+11,The Tavern by AIBC,343,bars/cocktail,Beer Bar,$$,Fernandina Beach,32034,FL,4,No,No,No
+12,Cafe Karibo,398,seafood,Seafood,$$,Fernandina Beach,32034,FL,4,Yes,Yes,No
+13,The Sandbar & Kitchen,226,italian,Pizza,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+14,Salt Life Food Shack,340,seafood,Seafood,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+16,Sliders Seaside Grill,731,seafood,Seafood,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+17,David's Restaurant & Lounge,215,american,American (Traditional),$$$,Fernandina Beach,32034,FL,4.5,No,No,No
+18,Coquina,9,seafood,Seafood,,Amelia Island,32034,FL,4.5,No,No,No
+19,First Love Brewing,91,bars/cocktail,Brewpubs,$$,Fernandina Beach,32034,FL,5,No,No,No
+20,Tortuga Jacks,21,mexican/tex-mex,New Mexican Cuisine,,Amelia Island,32034,FL,4,No,No,No
+21,Outer Banks Boil Company Amelia Island,1,seafood,Seafood,,Fernandina Beach,32034,FL,5,No,No,No
+22,Overtime Bar and Grill,34,american,Chicken Wings,$$,Fernandina Beach,32034,FL,5,No,No,No
+23,Cucina South,168,seafood,Seafood,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+24,Lagniappe,244,unique_foregin,French,$$$,Amelia Island,32034,FL,4,No,No,No
+25,CIAO ITALIAN EATERY,280,italian,Italian,$$,Fernandina Beach,32034,FL,4,No,No,No
+26,Garden Street Bistro,95,cafe/breakfast,Breakfast & Brunch,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+27,Salt,254,american,American (New),$$$$,Amelia Island,32034,FL,4.5,No,No,No
+28,Joe's 2nd Street Bistro,201,american,American (New),$$,Fernandina Beach,32034,FL,4,No,No,No
+29,Le Clos,131,unique_foregin,French,$$$,Amelia Island,32034,FL,4.5,No,No,No
+30,V Pizza - Fernandina Beach,79,italian,Italian,$$,Fernandina Beach,32034,FL,4,No,No,No
+31,T-Rays,220,american,American (Traditional),$,Fernandina Beach,32035,FL,4.5,No,No,No
+33,Cantina Louie,229,mexican/tex-mex,Mexican,$$,Fernandina Beach,32034,FL,4,No,No,No
+34,Pablo's Mexican Cuisine,287,mexican/tex-mex,Mexican,$$,Fernandina Beach,32034,FL,4,No,No,No
+35,The Surf Restaurant & Bar,122,seafood,Seafood,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+36,Beach Diner,252,american,Diners,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+37,Arte Pizza,294,italian,Pizza,$$,Fernandina Beach,32034,FL,4,No,No,No
+38,Leddy’s Porch at Florida House Inn,55,american,Southern,$$,Fernandina Beach,32034,FL,4,No,No,No
+39,Coastal Pizza,120,italian,Pizza,$$,Fernandina Beach,32034,FL,4.5,Yes,No,No
+40,Tasty's Fresh Burgers,364,american,Burgers,$$,Fernandina Beach,32034,FL,4.5,No,Yes,No
+42,Hola Cuban Cafe,233,cafe/breakfast,Coffee & Tea,$,Fernandina Beach,32034,FL,4.5,No,No,No
+43,BarZin Bistro & Wine Bar,167,american,American (New),$$,Fernandina Beach,32034,FL,4.5,No,No,No
+44,Thai Spice Cafe,43,asian/sushi,Thai,,Fernandina Beach,32034,FL,4,No,No,No
+45,Bantam & Biddy,81,cafe/breakfast,Breakfast & Brunch,$$,Fernandina Beach,32034,FL,4,No,No,No
+46,Captain Jacks Smokehouse,94,american,Barbeque,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+47,Stephanie's Sugar and Spice Cafe,9,cafe/breakfast,Cafes,,Fernandina Beach,32034,FL,5,No,No,No
+48,Pepper’s Cocina Mexicana & Tequila Bar,125,mexican/tex-mex,Mexican,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+49,Pogo's Kitchen,106,american,Southern,$$$,Fernandina Beach,32034,FL,4.5,No,No,No
+50,Bob's Steak & Chop House,153,seafood,Seafood,$$$,Fernandina Beach,32034,FL,4,No,No,No
+51,Tidewater Grill,3,american,American (New),,Amelia Island,32034,FL,4.5,No,No,No
+52,La Sureña Mexican Store,51,mexican/tex-mex,Mexican,$,Fernandina Beach,32034,FL,4.5,No,No,No
+53,The Hidden Crab,23,seafood,Seafood,,Fernandina Beach,32034,FL,4,Yes,No,No
+54,The Crab Trap,241,seafood,Seafood,$$,Fernandina Beach,32034,FL,3,No,No,No
+55,Coast,73,american,American (New),$$,Amelia Island,32034,FL,3.5,No,No,No
+56,Ms. Carolyn's Restaurant,256,cafe/breakfast,Breakfast & Brunch,$$,Fernandina Beach,32034,FL,4,No,No,No
+57,Big Al's Chicken Shack,5,american,Chicken Shop,,fernandina beach,32034,FL,4,No,No,No
+58,4th Street Deli,114,cafe/breakfast,Delis,$,Fernandina Beach,32034,FL,4.5,No,No,No
+59,Moon River Pizza,131,italian,Pizza,$,Fernandina Beach,32034,FL,4,No,No,No
+60,Akari Sushi,42,asian/sushi,Japanese,,Fernandina Beach,32034,FL,4,No,No,No
+62,Surcheros Fresh Mex,20,mexican/tex-mex,Tex-Mex,$,Fernandina Beach,32034,FL,4,No,No,No
+63,Grab'n'grow,19,bars/cocktail,Juice Bars & Smoothies,,Fernandina Beach,32034,FL,4.5,No,No,No
+64,Aloha Bagel And Deli,152,cafe/breakfast,Bagels,$,Fernandina Beach,32034,FL,4.5,Yes,Yes,No
+65,Shucker's Oyster Bar,269,seafood,Seafood,$$,Fernandina Beach,32034,FL,3,No,No,No
+66,Olive Cove,118,italian,Italian,$$,Yulee,32097,FL,4,Yes,No,No
+67,Marché Burette,149,cafe/breakfast,Delis,$$,Fernandina Beach,32034,FL,4,No,No,No
+68,Amelia Island Coffee,187,cafe/breakfast,Coffee & Tea,$,Fernandina Beach,32034,FL,4,No,Yes,No
+69,Alloro Italian Bistrot,9,italian,Italian,,Fernandina Beach,32034,FL,3,No,No,No
+70,The Mustard Seed Cafe,15,cafe/breakfast,Cafes,$$,Fernandina Beach,32034,FL,4,No,No,No
+72,King Wok,40,asian/sushi,Chinese,$,Fernandina Beach,32034,FL,4,No,No,No
+73,Willie Jewell's Old School Bar-B-Q,151,american,Barbeque,$$,Yulee,32097,FL,4,Yes,Yes,No
+74,Townies Pizzeria,272,italian,Pizza,$,Fernandina Beach,32034,FL,4,Yes,Yes,No
+75,Black Cat Pizzeria,31,italian,Pizza,,Yulee,32097,FL,4,No,No,No
+77,Marsh View Bar & Grill,9,american,American (Traditional),,Fernandina Beach,32034,FL,4,No,No,No
+78,Ahan Thai Kitchen,109,asian/sushi,Thai,$$,Fernandina Beach,32034,FL,4,Yes,Yes,No
+79,Fancy Sushi,125,asian/sushi,Sushi Bars,$$,Fernandina Beach,32034,FL,4,No,No,No
+80,Verandah,151,seafood,Seafood,$$$,amelia Island,32034,FL,4,No,No,No
+83,Island BBQ,17,american,Barbeque,$,Fernandina Beach,32034,FL,3.5,No,No,No
+84,Cedar River Seafood,128,seafood,Seafood,$$,Fernandina Beach,32034,FL,3,No,No,No
+85,Chewy’s Burger Beer and Shake,2,american,Burgers,,Fernandina Beach,32034,FL,4,Yes,Yes,No
+86,Natural Slice Pizza And Surf Shop,81,italian,Pizza,$,Fernandina Beach,32034,FL,3.5,No,No,No
+88,New China Buffet,24,asian/sushi,Chinese,$,Fernandina Beach,32034,FL,3.5,No,No,No
+90,Sunrise Café,73,american,American (Traditional),$$,Amelia Island,32034,FL,4.5,No,No,No
+92,Baxter's,110,american,American (Traditional),$$,Fernandina Beach,32034,FL,3,No,No,No
+93,KP’s,36,american,Salad,$$,Fernandina Beach,32034,FL,4.5,No,No,No
+94,Falcon's Nest,145,bars/cocktail,Bars,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+95,Oceanside,68,american,American (New),$$,Fernandina Beach,32034,FL,3,No,No,No
+96,Anejo Cocina Mexicana,49,mexican/tex-mex,Mexican,$$,Yulee,32097,FL,3,Yes,No,No
+98,Kabuki Japanese Steakhouse & Sushi Bar,31,bars/cocktail,Nightlife,$$,Fernandina Beach,32034,FL,3,No,No,No
+99,Hana Sushi,3,asian/sushi,Japanese,,Yulee,32097,FL,5,No,No,No
+101,My Season Chicken and Ribs,10,american,Barbeque,,Yulee,32097,FL,5,No,No,No
+103,Southern Donut Company,21,cafe/breakfast,Breakfast & Brunch,,Yulee,32097,FL,4,No,No,No
+104,Frisky Mermaid,1,american,Restaurants,,Amelia Island,32034,FL,4,No,No,No
+107,OCEAN BAR & GRILL Ritz Carlton,12,american,American (New),$$,Fernandina Beach,32034,FL,4,No,No,No
+108,The Grill At Long Point,6,american,American (New),,Amelia Island,32034,FL,3,No,No,No
+110,Amelia Island Tea House,9,cafe/breakfast,Tea Rooms,,Amelia Island,32034,FL,4.5,No,No,No
+111,Fancy Sushi & Grill,36,asian/sushi,Japanese,$$,Yulee,32097,FL,4.5,Yes,No,No
+114,Loop Pizza Grill,58,italian,Pizza,$$,Fernandina Beach,32034,FL,4,No,No,No
+116,Hana Sushi,57,asian/sushi,Japanese,$$,Fernandina Beach,32034,FL,4,No,No,No
+117,Seaglass,5,american,American (Traditional),,Fernandina Beach,32034,FL,3.5,No,No,No
+121,China King,28,asian/sushi,Chinese,$,Yulee,32097,FL,4,Yes,No,No
+122,San Jose Mexican Grill,100,mexican/tex-mex,Mexican,$,Yulee,32097,FL,4,Yes,No,No
+124,Gator's Dockside,57,bars/cocktail,Sports Bars,$$,Yulee,32097,FL,3,Yes,No,No
+125,Lucky Wok,25,asian/sushi,Chinese,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+126,Culver’s,26,american,Fast Food,,Yulee,32097,FL,3,No,No,No
+127,Tasty’s Fresh Burgers,30,american,Burgers,,Yulee,32097,FL,3.5,No,Yes,No
+134,Captain Jacks + Arte - Yulee,2,american,Barbeque,,Yulee,32097,FL,2.5,No,No,No
+136,Tasty's Fresh Burgers,89,cafe/breakfast,Breakfast & Brunch,$,Yulee,32097,FL,4,Yes,No,No
+137,Eight Burger Bar & Sports Lounge,17,bars/cocktail,Sports Bars,$$,Fernandina Beach,32034,FL,3.5,No,No,No
+139,Ops Pizza Kitchen & Cafe,76,italian,Pizza,$$,Fernandina Beach,32034,FL,3,Yes,Yes,No
+140,Don Patron Mexican Grill & Cantina,87,mexican/tex-mex,Mexican,$$,Yulee,32097,FL,3.5,Yes,No,No
+142,Sushi House,66,asian/sushi,Sushi Bars,$$,Yulee,32097,FL,4,Yes,Yes,No
+145,Chili's,77,bars/cocktail,Bars,$$,Yulee,32097,FL,3,Yes,Yes,No
+146,DeNucci's,138,dessert/bakery,Ice Cream & Frozen Yogurt,$,Fernandina Beach,32034,FL,4,No,No,No
+150,Aloha Bagel and Deli,2,cafe/breakfast,Bagels,,Fernandina Beach,32034,FL,4.5,Yes,Yes,No
+155,Ciao,11,american,American (Traditional),$$,Fernandina Beach,32034,FL,2.5,No,No,No
+156,China One,25,asian/sushi,Chinese,$,Yulee,32097,FL,4,Yes,No,No
+159,Parkway Grille Inc,81,cafe/breakfast,Breakfast & Brunch,$,Fernandina Beach,32034,FL,3,No,No,No
+164,The Grille of North Hampton,1,italian,Italian,,Fernandina Beach,32034,FL,5,No,No,No
+165,Horizons,24,american,American (New),$$,Fernandina Beach,32034,FL,3.5,No,No,No
+166,Whataburger,86,american,Fast Food,$,Yulee,32097,FL,3,Yes,No,No
+167,Domino's Pizza,9,italian,Pizza,$,Fernandina Beach,32034,FL,3.5,No,No,No
+168,Gators Dockside,10,american,Chicken Wings,,Yulee,32097,FL,3,No,No,No
+173,Jersey Mike's Subs,33,cafe/breakfast,Sandwiches,$$,Fernandina Beach,32034,FL,3.5,No,Yes,No
+174,Marco's Pizza,20,italian,Pizza,,Yulee,32097,FL,4,Yes,Yes,No
+175,shark fish and chicken,3,seafood,Seafood,,Yulee,32097,FL,4.5,Yes,Yes,No
+178,Taco Bell,22,american,Fast Food,$,Fernandina Beach,32034,FL,2.5,No,No,No
+179,Zaxby's Chicken Fingers & Buffalo Wings,17,american,Fast Food,$,Fernandina Beach,32034,FL,2.5,Yes,Yes,No
+181,McDonald's,51,american,Fast Food,$,Fernandina Beach,32034,FL,1.5,No,No,No
+186,Firehouse Subs,24,cafe/breakfast,Sandwiches,$,Fernandina Beach,32034,FL,3.5,No,No,No
+187,Larry's Giant Subs,12,cafe/breakfast,Sandwiches,,Fernandina Beach,32034,FL,4,Yes,No,No
+188,Jimmy John's,22,cafe/breakfast,Delis,$,Fernandina Beach,32034,FL,4.5,No,No,No
+191,Circle K,1,convenience,Convenience Stores,,Fernandina Beach,32034,FL,1,No,No,No
+200,Burger King,29,american,Burgers,$,Fernandina Beach,32034,FL,1.5,No,No,No
+201,Subway,3,cafe/breakfast,Sandwiches,$,Fernandina Beach,32034,FL,2.5,No,No,No
+202,Dairy Queen Grill & Chill,41,american,Fast Food,$,Fernandina Beach,32034,FL,2.5,No,No,No
+204,Woody's Bar-B-Q,45,american,Barbeque,$$,Fernandina Beach,32034,FL,2.5,Yes,Yes,No
+207,Jersey Mike's Subs,1,american,Fast Food,,Yulee,32097,FL,5,Yes,Yes,No
+211,Marker 13 Bar & Grille,3,american,American (Traditional),,Fernandina Beach,32034,FL,2.5,No,No,No
+213,Chick-fil-A,54,american,Fast Food,$,Yulee,32097,FL,4,No,No,No
+214,Mama J's,1,american,Buffets,$$$,Yulee,32097,FL,1,No,No,No
+216,Chipotle Mexican Grill,12,mexican/tex-mex,Mexican,,Yulee,32097,FL,2,Yes,Yes,No
+220,Panda Express,33,asian/sushi,Chinese,,Yulee,32097,FL,3,Yes,Yes,No
+222,Zaxby's,25,american,Salad,$,Yulee,32097,FL,3,Yes,Yes,No
+223,Firehouse Subs,12,american,Fast Food,,Yulee,32097,FL,3,Yes,Yes,No
+228,Tropical Smoothie Cafe,23,bars/cocktail,Juice Bars & Smoothies,$,Yulee,32097,FL,3.5,Yes,Yes,No
+230,Panera Bread,64,american,Salad,$$,Yulee,32097,FL,2.5,Yes,Yes,No
+232,Huddle House,28,cafe/breakfast,Breakfast & Brunch,$,Yulee,32097,FL,3,Yes,No,No
+237,Circle K,1,convenience,Convenience Stores,,Yulee,32034,FL,5,No,No,No
+238,McDonald's,57,american,Burgers,$,Yulee,32097,FL,1.5,Yes,No,No
+239,Pizza Hut,11,italian,Pizza,$,Yulee,32097,FL,2,Yes,Yes,No
+244,KFC,36,american,Fast Food,$,Yulee,32097,FL,1.5,Yes,Yes,No
+245,Amelia Island Sushi,3,asian/sushi,Sushi Bars,,Fernandina Beach,32034,FL,2.5,No,No,No
+246,Krystal,22,american,Fast Food,$,Yulee,32097,FL,2.5,Yes,No,No
+247,Wendy's,13,american,Burgers,$,Yulee,32097,FL,2,Yes,No,No
+248,McDonald's,26,american,Burgers,$,Yulee,32097,FL,2,Yes,No,No
+269,Burger King,21,american,Burgers,$,Yulee,32097,FL,2,Yes,No,No
+271,Domino's Pizza,11,italian,Pizza,$,Yulee,32097,FL,2,No,No,No
+279,Circle K,2,convenience,Convenience Stores,,Fernandina Beach,32034,FL,2.5,No,No,No
+286,Subway,5,cafe/breakfast,Sandwiches,$,Yulee,32097,FL,2,Yes,No,No
+292,Subway,4,cafe/breakfast,Sandwiches,$,Yulee,32097,FL,2.5,Yes,Yes,No
